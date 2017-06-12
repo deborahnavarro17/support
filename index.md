@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-05-17"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -148,9 +148,9 @@ For {{site.data.keyword.Bluemix_notm}} Public, you can sign up for platform noti
 
   * Take advantage of multiple {{site.data.keyword.Bluemix_notm}} regions
 
-    All users of {{site.data.keyword.Bluemix_notm}} Public automatically have access to the US-SOUTH, EU-GB, EU-DE, and AU-SYD regions. The {{site.data.keyword.Bluemix_notm}} Global Operations team manages all regions to avoid maintenance impacts and minimize the risk of incidents that affect all regions at the same time.
-    
-    To switch regions, from the {{site.data.keyword.Bluemix_notm}} menu bar, expand the **Region** menu, and then select the region you require information for.
+All users of {{site.data.keyword.Bluemix_notm}} Public automatically have access to the US-SOUTH, EU-GB, EU-DE, and AU-SYD regions. The {{site.data.keyword.Bluemix_notm}} Global Operations team manages all regions to avoid maintenance impacts and minimize the risk of incidents that affect all regions at the same time.
+
+To switch regions, from the {{site.data.keyword.Bluemix_notm}} menu bar, expand the **Region** menu, and then select the region you require information for.
 
   * Prepare for minor interruptions
 
@@ -370,4 +370,3 @@ IBM periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers t
   * [dW Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}
   * [Installing the cf command tool](/docs/starters/install_cli.html)
   * [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}
-  
