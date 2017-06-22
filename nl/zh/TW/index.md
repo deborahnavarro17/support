@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-04-18"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -150,14 +150,9 @@ News 來源（例如下列網站）也提供方法來讀取 RSS 資訊來源：
 
   * 充分運用多個 {{site.data.keyword.Bluemix_notm}} 地區
 
-    「{{site.data.keyword.Bluemix_notm}} 公用」的所有使用者都自動可存取 US-SOUTH、EU-GB、EU-DE 及 AU-SYD 地區：
+「{{site.data.keyword.Bluemix_notm}} 公用」的所有使用者都自動可存取 US-SOUTH、EU-GB、EU-DE 及 AU-SYD 地區。{{site.data.keyword.Bluemix_notm}} Global Operations 團隊會管理所有地區，以避免維護造成的影響，並讓發生同時影響所有地區之突發事件的風險降到最低。
 
-	  * US-SOUTH：https://console.ng.bluemix.net
-	  * EU-GB：https://console.eu-gb.bluemix.net
-	  * EU-DE：https://console.eu-de.bluemix.net
-	  * AU-SYD：https://console.au-syd.bluemix.net
-
-	{{site.data.keyword.Bluemix_notm}} Global Operations 團隊會管理所有地區，以避免維護造成的影響，並讓發生同時影響所有地區之突發事件的風險降到最低。
+若要切換地區，請從 {{site.data.keyword.Bluemix_notm}} 功能表列中，展開**地區**功能表，然後選取您需要其資訊的地區。
 
   * 準備進行輕微岔斷
 

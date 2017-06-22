@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-04-18"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -169,14 +169,9 @@ RSS フィードを読むには、他に、以下のような Web ブラウザ�
 
   * 複数の {{site.data.keyword.Bluemix_notm}} 地域を利用する
 
-    {{site.data.keyword.Bluemix_notm}} Public のユーザーはすべて、US-SOUTH、EU-GB、EU-DE、および AU-SYD の各地域に自動的にアクセスできるようになっています。
+{{site.data.keyword.Bluemix_notm}} Public のユーザーはすべて、US-SOUTH、EU-GB、EU-DE、および AU-SYD の各地域に自動的にアクセスできるようになっています。{{site.data.keyword.Bluemix_notm}} グローバル運用チームは、すべての地域を管理して、メンテナンスの影響を回避し、同時にすべての地域に影響する問題のリスクを最小限に抑えるようにしています。
 
-	  * US-SOUTH: https://console.ng.bluemix.net
-	  * EU-GB: https://console.eu-gb.bluemix.net
-	  * EU-DE: https://console.eu-de.bluemix.net
-	  * AU-SYD: https://console.au-syd.bluemix.net
-
-	{{site.data.keyword.Bluemix_notm}} グローバル運用チームは、すべての地域を管理して、メンテナンスの影響を回避し、同時にすべての地域に影響する問題のリスクを最小限に抑えるようにしています。
+地域を切り替えるには、{{site.data.keyword.Bluemix_notm}} メニュー・バーで、**「地域」**メニューを展開し、情報が必要な地域を選択します。
 
   * 小規模の中断に備える
 

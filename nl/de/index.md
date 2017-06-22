@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-04-18"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -148,14 +148,9 @@ Bei {{site.data.keyword.Bluemix_notm}} Public können Sie sich für Plattformben
 
   * Nutzen der Vorteile mehrerer {{site.data.keyword.Bluemix_notm}}-Regionen
 
-    Alle Benutzer von {{site.data.keyword.Bluemix_notm}} Public haben automatisch Zugriff auf die Regionen US-SOUTH, EU-GB, EU-DE und AU-SYD:
+Alle Benutzer von {{site.data.keyword.Bluemix_notm}} Public haben automatisch Zugriff auf die Regionen US-SOUTH, EU-GB, EU-DE und AU-SYD. Das {{site.data.keyword.Bluemix_notm}} Global Operations-Team verwaltet alle Regionen, um Auswirkungen von Instandhaltungsmaßnahmen zu verhindern und um das Risiko von Zwischenfällen zu minimieren, die sich auf alle Regionen gleichzeitig auswirken.
 
-	  * US-SOUTH: https://console.ng.bluemix.net
-	  * EU-GB: https://console.eu-gb.bluemix.net
-	  * EU-DE: https://console.eu-de.bluemix.net
-	  * AU-SYD: https://console.au-syd.bluemix.net
-
-	Das {{site.data.keyword.Bluemix_notm}} Global Operations-Team verwaltet alle Regionen, um Auswirkungen von Instandhaltungsmaßnahmen zu verhindern und um das Risiko von Zwischenfällen zu minimieren, die sich auf alle Regionen gleichzeitig auswirken.
+Zum Wechseln der Regionen erweitern Sie in der Menüleiste {{site.data.keyword.Bluemix_notm}} das Menü **Region** und wählen Sie anschließend die Region aus, für die Sie Informationen benötigen.
 
   * Auf kleinere Unterbrechungen vorbereitet sein
 

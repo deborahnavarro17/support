@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-04-18"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -154,14 +154,9 @@ Para {{site.data.keyword.Bluemix_notm}} público, puede registrarse para las not
 
   * Aprovechar las diversas regiones de {{site.data.keyword.Bluemix_notm}}
 
-    Todos los usuarios de {{site.data.keyword.Bluemix_notm}} público tienen acceso automáticamente a las regiones US-SOUTH, EU-GB, EU-DE y AU-SYD:
+Todos los usuarios de {{site.data.keyword.Bluemix_notm}} Public tienen acceso automáticamente a las regiones US-SOUTH, EU-GB, EU-DE y AU-SYD. El equipo {{site.data.keyword.Bluemix_notm}} Global Operations gestiona todas las regiones para evitar que les afecte el mantenimiento y minimizar el riesgo de incidencias que afecten a todas las regiones al mismo tiempo.
 
-	  * US-SOUTH: https://console.ng.bluemix.net
-	  * EU-GB: https://console.eu-gb.bluemix.net
-	  * EU-DE: https://console.eu-de.bluemix.net
-	  * AU-SYD: https://console.au-syd.bluemix.net
-
-	El equipo {{site.data.keyword.Bluemix_notm}} Global Operations gestiona todas las regiones para evitar que les afecte el mantenimiento y minimizar el riesgo de incidencias que afecten a todas las regiones al mismo tiempo.
+Para conmutar entre regiones, desde la barra de menús de {{site.data.keyword.Bluemix_notm}}, amplíe el menú **Región** y, a continuación, seleccione la región que necesita. 
 
   * Preparar para interrupciones menores
 
@@ -263,7 +258,7 @@ está relacionado con la celeridad con la que se soluciona el problema.
 
 La siguiente tabla lista algunos ejemplos comunes de los problemas de soporte, niveles de gravedad sugeridos y los objetivos de tiempo de respuesta. Los objetivos de tiempo de respuesta se utilizan únicamente para describir los objetivos de IBM y no representan una garantía de rendimiento.
 
-**Horario de funcionamiento: ** entre el domingo a las 21:30 UTC y el viernes a las 23:59 UTC (sin incluir vacaciones en EE.UU/Italia/Australia). Para obtener ayuda para convertir este horario de soporte a su huso horario, consulte [Timeanddate.com ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.timeanddate.com). Para obtener más información sobre planificación de vacaciones, consulte [Bluemix Support Holidays ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://ibm.biz/bluemixholidays). 
+**Horario de funcionamiento: ** entre el domingo a las 21:30 UTC y el viernes a las 23:59 UTC (sin incluir vacaciones en EE.UU./Italia/Australia). Para obtener ayuda para convertir este horario de soporte a su huso horario, consulte [Timeanddate.com ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.timeanddate.com). Para obtener más información sobre planificación de vacaciones, consulte [Bluemix Support Holidays ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://ibm.biz/bluemixholidays). 
 
 
 Gravedad | Definición de gravedad | Objetivos de tiempo de respuesta | Cobertura de tiempo de respuesta

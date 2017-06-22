@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-04-18"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -148,14 +148,9 @@ Pour l'environnement {{site.data.keyword.Bluemix_notm}} public, vous pouvez vous
 
   * Bénéfice lié à plusieurs régions {{site.data.keyword.Bluemix_notm}}
 
-    Tous les utilisateurs de l'environnement {{site.data.keyword.Bluemix_notm}} Public ont automatiquement accès aux régions Sud des Etats-Unis, Europe-Royaume-Uni, Europe-Allemagne et Australie-Sydney :
+Tous les utilisateurs de l'environnement {{site.data.keyword.Bluemix_notm}} Public ont automatiquement accès aux régions Sud des Etats-Unis, Europe-Royaume-Uni, Europe-Allemagne et Australie-Sydney. L'équipe de {{site.data.keyword.Bluemix_notm}} Global Operations gère toutes les régions afin d'éviter les impacts de la maintenance et de minimiser le risque d'incidents affectant simultanément toutes les régions.
 
-	  * Sud des Etats-Unis : https://console.ng.bluemix.net
-	  * Europe-Royaume-Uni : https://console.eu-gb.bluemix.net
-	  * EU-DE : https://console.eu-de.bluemix.net
-	  * Australie-Sydney : https://console.au-syd.bluemix.net
-
-	L'équipe de {{site.data.keyword.Bluemix_notm}} Global Operations gère toutes les régions afin d'éviter les impacts de la maintenance et de minimiser le risque d'incidents affectant simultanément toutes les régions.
+Pour basculer vers une autre région, depuis la barre de menu {{site.data.keyword.Bluemix_notm}}, développez le menu **Région**, puis sélectionnez la région sur laquelle vous recherchez des informations.
 
   * Préparation pour des interruptions mineures
 

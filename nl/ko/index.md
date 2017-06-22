@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-04-18"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -148,14 +148,9 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 
   * 다중 {{site.data.keyword.Bluemix_notm}} 지역 활용
 
-    {{site.data.keyword.Bluemix_notm}} 퍼블릭의 모든 사용자는 자동으로 US-SOUTH, EU-GB, EU-DE 및 AU-SYD 지역에 액세스할 수 있습니다.
+{{site.data.keyword.Bluemix_notm}} 퍼블릭의 모든 사용자는 자동으로 US-SOUTH, EU-GB, EU-DE 및 AU-SYD 지역에 액세스할 수 있습니다. {{site.data.keyword.Bluemix_notm}} 글로벌 오퍼레이션 팀에서 전체 지역을 관리하여 유지보수에 미치는 영향을 방지하고 동시에 모든 지역에 영향을 미치는 인시던트의 발생 위험을 최소화합니다.
 
-	  * US-SOUTH: https://console.ng.bluemix.net
-	  * EU-GB: https://console.eu-gb.bluemix.net
-	  * EU-DE: https://console.eu-de.bluemix.net
-	  * AU-SYD: https://console.au-syd.bluemix.net
-
-	{{site.data.keyword.Bluemix_notm}} 글로벌 오퍼레이션 팀에서 전체 지역을 관리하여 유지보수에 미치는 영향을 방지하고 동시에 모든 지역에 영향을 미치는 인시던트의 발생 위험을 최소화합니다.
+지역을 전환하려면 {{site.data.keyword.Bluemix_notm}} 메뉴 표시줄에서 **지역** 메뉴를 펼친 후 정보가 필요한 지역을 선택하십시오. 
 
   * 사소한 인터럽트에 대비
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-04-18"
+Lastupdated: "2017-05-23"
 
 ---
 
@@ -148,14 +148,9 @@ Para {{site.data.keyword.Bluemix_notm}} Public, é possível se inscrever para n
 
   * Aproveite as diversas regiões do {{site.data.keyword.Bluemix_notm}}
 
-    Todos os usuários do {{site.data.keyword.Bluemix_notm}} Public têm automaticamente acesso às regiões US-SOUTH, EU-GB, EU_DE e AU-SYD:
+Todos os usuários do {{site.data.keyword.Bluemix_notm}} Public têm acesso automaticamente às regiões US-SOUTH, EU-GB, EU-DE e AU-SYD. A equipe de Operações Globais do {{site.data.keyword.Bluemix_notm}} gerencia todas as regiões para evitar impactos de manutenção e minimizar o risco de incidentes que afetem todas as regiões ao mesmo tempo.
 
-	  * US-SOUTH: https://console.ng.bluemix.net
-	  * EU-GB: https://console.eu-gb.bluemix.net
-	  * EU-DE: https://console.eu-de.bluemix.net
-	  * AU-SYD: https://console.au-syd.bluemix.net
-
-	A equipe de Operações Globais do {{site.data.keyword.Bluemix_notm}} gerencia todas as regiões para evitar impactos de manutenção e minimizar o risco de incidentes que afetem todas as regiões ao mesmo tempo.
+Para alternar regiões, na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda o menu **Região** e, em seguida, selecione a região para a qual você requer informações.
 
   * Prepare-se para interrupções menores
 

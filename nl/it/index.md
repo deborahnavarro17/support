@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-04-18"
+lastupdated: "2017-05-23"
 
 ---
 
@@ -158,19 +158,14 @@ almeno una volta ogni 24 ore, utilizzando una delle seguenti opzioni::
   * Controlla le finestre di manutenzione correnti o un evento imprevisto in corso
 
 	Se hai il sospetto che {{site.data.keyword.Bluemix_notm}} non
-funzioni nel modo previsto, consulta la pagina dello stato per controllare le finestre di manutenzione correnti o
+funzioni nel modo previsto, vedi la pagina dello stato per controllare le finestre di manutenzione correnti o
 un evento imprevisto in corso. Per segnalare un evento imprevisto non ancora elencato nella pagina dello stato, apri un ticket di supporto facendo clic su **Supporto** e selezionando **Aggiungi ticket** nella barra dei menu o accedendo alla pagina di assistenza [Supporto IBM Bluemix ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://www.ibm.biz/bluemixsupport){: new_window}.
 
   * Usufruisci di più regioni {{site.data.keyword.Bluemix_notm}}
 
-    Tutti gli utenti di {{site.data.keyword.Bluemix_notm}} pubblico hanno automaticamente accesso alle regioni US-SOUTH, EU-GB, EU-DE e AU-SYD:
+Tutti gli utenti di {{site.data.keyword.Bluemix_notm}} pubblico hanno automaticamente accesso alle regioni US-SOUTH, EU-GB, EU-DE e AU-SYD. Il team di {{site.data.keyword.Bluemix_notm}} Global Operations gestisce tutte le regioni per evitare impatti sulla manutenzione e ridurre al minimo il rischio di eventi imprevisti che influiscano contemporaneamente su tutte le regioni.
 
-	  * US-SOUTH: https://console.ng.bluemix.net
-	  * EU-GB: https://console.eu-gb.bluemix.net
-	  * EU-DE: https://console.eu-de.bluemix.net
-	  * AU-SYD: https://console.au-syd.bluemix.net
-
-	Il team di {{site.data.keyword.Bluemix_notm}} Global Operations gestisce tutte le regioni per evitare impatti sulla manutenzione e ridurre al minimo il rischio di eventi imprevisti che influiscano contemporaneamente su tutte le regioni.
+Per cambiare regione, dalla barra dei menu {{site.data.keyword.Bluemix_notm}}, espandi il menu **Regione** e seleziona quindi la regione per la quale hai bisogno di informazioni.
 
   * Prepararsi a piccole interruzioni
 
@@ -215,7 +210,7 @@ Se non sei riuscito a risolvere il tuo problema tecnico con le opzioni di risolu
 Se il problema non è dovuto a un'interruzione, apri un ticket di supporto attraverso una delle seguenti opzioni:
 
   * Dalla barra dei menu, fai clic su **Supporto** e seleziona **Aggiungi ticket**. Nella pagina che viene visualizzata, compila il modulo per indicare il tipo di supporto tecnico di cui hai bisogno.
-  * Utilizza la pagina di assistenza [IBM {{site.data.keyword.Bluemix_notm}} Support ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://www.ibm.biz/bluemixsupport){: new_window}. Puoi inoltrare ticket per problemi relativi a vendite, ID IBM e accesso, fatturazione e supporto tecnico. Per i problemi di supporto tecnico, puoi restringere il problema ad una specifica area o servizio. Se hai bisogno di aiuto per un servizio specifico, seleziona la categoria di servizi corrispondente. Per determinare la categoria di appartenenza del tuo servizio, consulta il catalogo nella barra dei menu.  
+  * Utilizza la pagina di assistenza [IBM {{site.data.keyword.Bluemix_notm}} Support ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://www.ibm.biz/bluemixsupport){: new_window}. Puoi inoltrare ticket per problemi relativi a vendite, ID IBM e accesso, fatturazione e supporto tecnico. Per i problemi di supporto tecnico, puoi restringere il problema ad una specifica area o servizio. Se hai bisogno di aiuto per un servizio specifico, seleziona la categoria di servizi corrispondente. Per determinare la categoria di appartenenza del tuo servizio, vedi il catalogo nella barra dei menu.  
   
 Quando apri un ticket di supporto, accertati di indicare una gravità appropriata per il tuo ticket. Quest'ultima determina il modo in cui il tuo ticket viene gestito. Per informazioni sui diversi livelli di severità, vedi [Severità e tempo di risposta del ticket di supporto](/docs/support/index.html#support-ticket-severity). Se la tua domanda di supporto richiede una risposta più immediata, ti raccomandiamo di eseguire l'aggiornamento ai nostri livelli di supporto Standard o Premium in modo che puoi aumentare la severità dei ticket di supporto da 1 a 4. Per eseguire l'upgrade a un livello di supporto superiore, contatta il tuo [rappresentante delle vendite IBM![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} o inviaci una e-email all'indirizzo sales@bluemix.net.
 
