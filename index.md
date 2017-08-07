@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
   
-lastupdated: "2017-05-23"
+lastupdated: "2017-08-28"
 
 ---
 
@@ -15,23 +15,20 @@ lastupdated: "2017-05-23"
 {: #getting-customer-support}
 
 
-
 If you experience problems with {{site.data.keyword.Bluemix}}, you have several support options, such as getting help through a forum, or opening a support ticket.
 {:shortdesc}
 
 
 ## Getting help
 {: #getting-help}
-To open a support ticket or find other help options, you can use the Support widget. You can also go directly to the Stack Overflow or developerWorks (dW) Answers forums to search information or post questions. If you are using an account that is linked between {{site.data.keyword.Bluemix_notm}} and {{site.data.keyword.BluSoftlayer}}, see [Using the Support widget for linked accounts](#using-avatar-linked) and [Opening a support ticket for linked accounts](#open-ticket-linked).
-
-{:shortdesc}
+To find help options or open a support ticket, you can use the Support widget. To search for information or post questions, you can go directly to the Stack Overflow forum for technical issues or the developerWorks (dW) Answers forum for other questions. If you are using an account that is linked between {{site.data.keyword.Bluemix_notm}} and {{site.data.keyword.BluSoftlayer}}, see [Using the Support widget for linked accounts](#using-avatar-linked) and [Opening a support ticket for linked accounts](/docs/support/index.html#open-ticket-linked).  
 
 
 ### Using the Support widget
 {: #using-avatar}
 The Support widget enables you to get help and provide feedback.
 
-To open the Support widget, log in to the {{site.data.keyword.Bluemix_notm}} console. On the menu bar, click **Support** and select **Find Answers** to locate answers to your questions. On the page that is displayed, type your question in the search field. Answers from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow are displayed. The page also provides options to post your question to Stack Overflow, or to open a ticket by clicking **GET IN TOUCH**. Although the support widget is the preferred method for obtaining support, if you cannot log in to Bluemix, you can use the [Get Help](http://www.ibm.biz/bluemixsupport) page to submit a ticket as well.
+To open the Support widget, log in to the {{site.data.keyword.Bluemix_notm}} console. On the menu bar, click **Support** and select **Find Answers** to locate answers to your questions. Enter your question in the search field to display answers from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow. You can also click **POST TO STACK OVERFLOW** to post a technical question, or open a ticket by clicking **GET IN TOUCH**. The support widget is the preferred method for obtaining support, but if you cannot log in to Bluemix, you can use the [Get Help](http://www.ibm.biz/bluemixsupport) page to submit a ticket.
 
 ### Using the Support widget for linked accounts
 {: #using-avatar-linked}
@@ -39,30 +36,30 @@ To open the Support widget, log in to the {{site.data.keyword.Bluemix_notm}} con
 If you are using an account that is linked between {{site.data.keyword.Bluemix_notm}} and {{site.data.keyword.BluSoftlayer}}, the Support widget is slightly different. Log in to the {{site.data.keyword.Bluemix_notm}} console and click **Support** on the menu bar to open the Support widget. Then, select **Add Ticket** or **Find Answers**. The following options are available to you:
 
 * You can search through the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow by setting a filter to change the search results to include only the selected items.
-* You can link directly to Stack Overflow **#IBMBluemix** to search or post.
-* You can submit a structured idea to the [IBM Cloud - Structured Ideas](https://ibmcloud.ideas.aha.io/) site.
-* You can contact sales by either calling or finding a sales representative. See the [Contact us](https://www.ibm.com/cloud-computing/bluemix/contact-us) page.
+* You can link directly to Stack Overflow **#IBMBluemix** to search or post technical questions.
+* You can submit an idea to the [IBM Cloud - Structured Ideas](https://ibmcloud.ideas.aha.io/) site.
+* You can contact a sales representative. See the [Contact us](https://www.ibm.com/cloud-computing/bluemix/contact-us) page.
 * You can connect with [**@IBMBluemixHelp**](http://www.twitter.com/IBMBluemixHelp) on Twitter to enhance your {{site.data.keyword.Bluemix_notm}} experience.
-* Although the support widget is the preferred method for obtaining support, if you cannot log in to {{site.data.keyword.Bluemix_notm}}, you can use the [Get Help](http://www.ibm.biz/bluemixsupport) page to submit a ticket as well.
+* The support widget is the preferred method for obtaining support, but if you cannot log in to {{site.data.keyword.Bluemix_notm}}, you can use the [Get Help](http://www.ibm.biz/bluemixsupport) page to submit a ticket.
 
 
 
 ### Using the Account menu items
 {: #using-accountmenu}
 
-Use the Account menu items to stay up-to-date with platform notifications; manage organization and team members; and view both organization usage information and current charges. 
+Use the Account menu items to stay up-to-date with platform notifications, manage organization and team members, and view both organization usage information and current charges. 
 
 
 ### Asking a question
 {: #asking-a-question}
 
-The Stack Overflow and dW Answers forums both provide a wide variety of searchable answers to your {{site.data.keyword.Bluemix_notm}} questions. If you don't find an existing answer, ask a new question. 
+The Stack Overflow, for technical questions, and dW Answers forums both provide a wide variety of searchable answers to your {{site.data.keyword.Bluemix_notm}} questions. If you don't find an existing answer, ask a new question. 
 
   * Go to [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
   * Go to [dW Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} to ask questions about the {{site.data.keyword.Bluemix_notm}} offering, and about getting started instructions.
 
 
-You can also ask a question in Stack Overflow directly from the support menu items by completing the following steps:
+You can also ask a technical question in Stack Overflow directly from the support menu items by completing the following steps:
   1. Click **Support** and select **Find Answers**. 
   2. On the panel that displays, type your question in the search field and click the search icon to find answers. 
   3. If the expected answer is not returned, click **POST TO STACK OVERFLOW** to post your question.
@@ -84,18 +81,41 @@ On the Status page, you can find the following information:
   * Unplanned incidents or outages, which are posted as soon as the {{site.data.keyword.Bluemix_notm}} team becomes aware of them. Incident notifications are regularly updated until they are resolved.
   * References to security bulletins that affect the various {{site.data.keyword.Bluemix_notm}} services or the platform.
   * Other platform-wide announcements of general interest to you.
-  * An RSS feed to which you can subscribe.
+  * [An RSS feed to which you can subscribe](#subscribing-rss-feed).
 
 You can find the Status page by choosing either of the following options:
 
   * Log in to the {{site.data.keyword.Bluemix_notm}} console. From the menu bar, click **Support** and select **Status**. Check the listed resources for the ![some issues](images/some_issues.svg) icon. This icon might indicate an outage.
-  * Access it directly at [IBM {{site.data.keyword.Bluemix_notm}} - System Status ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixstatus){: new_window}.
+  * Access it directly at [IBM {{site.data.keyword.Bluemix_notm}} - Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/status){: new_window}.
 
+
+### Best practices for monitoring status
+{: #best-practices}
+
+  * Check for upcoming maintenance windows
+
+	Check for upcoming maintenance windows posted on the status page, at least once every 24 hours, by using one of the following options:
+	  * By navigating directly to the [Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/status){: new_window} page
+	  * By using the RSS feed or an RSS-to-email forwarder
+
+  * Check for current maintenance windows or an incident in progress
+
+	If you suspect that {{site.data.keyword.Bluemix_notm}} is not functioning as expected, check the status page for current maintenance windows or an incident in progress. To report an incident that is not already listed on the status page, open a Support ticket by clicking **Support** and selecting **Add Ticket** on the menu bar or by accessing the [IBM Bluemix Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://www.ibm.biz/bluemixsupport){: new_window} help page.
+
+  * Take advantage of multiple {{site.data.keyword.Bluemix_notm}} regions
+
+    All users of {{site.data.keyword.Bluemix_notm}} Public automatically have access to the US-SOUTH, EU-GB, EU-DE, and AU-SYD regions. The {{site.data.keyword.Bluemix_notm}} Global Operations team manages all regions to avoid maintenance impacts and minimize the risk of incidents that affect all regions at the same time.
+    
+    To switch regions, from the {{site.data.keyword.Bluemix_notm}} menu bar, expand the region menu, and then select another region.
+
+  * Prepare for minor interruptions
+
+    In most cases, {{site.data.keyword.Bluemix_notm}} can continue to be used normally, even during the maintenance window. However, minor interruptions of a service can't always be avoided. Running applications typically remain available even if the application management functions of {{site.data.keyword.Bluemix_notm}}, such as starting and stopping apps, are temporarily interrupted. To maximize the availability of your running applications, run at least three instances of each application.
 
 ### Subscribing to an RSS feed
 {: #subscribing-rss-feed}
 
-You can also be alerted of any notifications by subscribing to the RSS feed for the {{site.data.keyword.Bluemix_notm}} Status page. This approach provides a way for you to get updates without having to regularly consult the status page.
+You receive alerts of any notifications by subscribing to the RSS feed for the {{site.data.keyword.Bluemix_notm}} Status page. This approach provides a way for you to get updates without having to regularly consult the status page.
 
 To subscribe, follow these steps:
 
@@ -126,73 +146,76 @@ You can also use a third-party service to automatically send an email for each R
 {{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
 
 
-
 ### Setting up incident and maintenance email notifications
 {: #setting-up-notifications}
 
 For {{site.data.keyword.Bluemix_notm}} Public, you can sign up for platform notifications. Platform notifications are optional email alerts for incident and maintenance events for the {{site.data.keyword.Bluemix_notm}} platform. You can choose to receive these email notifications by clicking **Manage > Account > Notifications**  and selecting the **Platform** tab. For more information about setting account notifications, go to [Setting notifications](/docs/admin/account.html#notifications).
 
 
-### Best practices for monitoring status
-{: #best-practices}
-
-  * Check for upcoming maintenance windows
-
-	Check for upcoming maintenance windows posted on the status page, at least once every 24 hours, by using one of the following options:
-	  * By navigating directly to the [Status ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixstatus){: new_window} page
-	  * By using the RSS feed or an RSS-to-email forwarder
-
-  * Check for current maintenance windows or an incident in progress
-
-	If you suspect that {{site.data.keyword.Bluemix_notm}} is not functioning as expected, check the status page for current maintenance windows or an incident in progress. To report an incident that is not already listed on the status page, open a Support ticket by clicking **Support** and selecting **Add Ticket** on the menu bar or by accessing the [IBM Bluemix Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://www.ibm.biz/bluemixsupport){: new_window} help page.
-
-  * Take advantage of multiple {{site.data.keyword.Bluemix_notm}} regions
-
-All users of {{site.data.keyword.Bluemix_notm}} Public automatically have access to the US-SOUTH, EU-GB, EU-DE, and AU-SYD regions. The {{site.data.keyword.Bluemix_notm}} Global Operations team manages all regions to avoid maintenance impacts and minimize the risk of incidents that affect all regions at the same time.
-
-To switch regions, from the {{site.data.keyword.Bluemix_notm}} menu bar, expand the **Region** menu, and then select the region you require information for.
-
-  * Prepare for minor interruptions
-
-    In most cases, {{site.data.keyword.Bluemix_notm}} can continue to be used normally, even during the maintenance window. However, minor interruptions of a service can't always be avoided. Running applications typically remain available even if the application management functions of {{site.data.keyword.Bluemix_notm}}, such as starting and stopping apps, are temporarily interrupted. To maximize the availability of your running applications, run at least three instances of each application.
-
-
-
 ## Contacting support
 {: #contacting-support}
 
-You can open support tickets if you have a valid {{site.data.keyword.Bluemix_notm}} account by using a variety of options. [Opening a support ticket](#open-ticket). 
+You can [open support tickets](/docs/support/index.html#open-ticket) if you have a valid {{site.data.keyword.Bluemix_notm}} account by using a variety of options.
 
-If you have a {{site.data.keyword.Bluemix_notm}} account linked with a {{site.data.keyword.BluSoftlayer_full}} account, you can open support tickets for {{site.data.keyword.Bluemix_notm}} from the {{site.data.keyword.BluSoftlayer}} Customer Portal or from the {{site.data.keyword.Bluemix_notm}} console by using the Support widget. See [Opening a support ticket for linked accounts](#open-ticket-linked).
+If you have a {{site.data.keyword.Bluemix_notm}} account linked with a {{site.data.keyword.BluSoftlayer_full}} account, you can open support tickets for {{site.data.keyword.Bluemix_notm}} from the {{site.data.keyword.BluSoftlayer}} Customer Portal or from the {{site.data.keyword.Bluemix_notm}} console by using the Support widget. See [Opening a support ticket for linked accounts](/docs/support/index.html#open-ticket-linked).
 
 ### Contacting support for Bluemix Public
 {: #contacting-bluemix-support}
 
-All customers of {{site.data.keyword.Bluemix_notm}} are provided with free technical support through the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow.  In addition, different levels of support are provided to meet different customer needs. Refer to the following table to choose between the free, basic, standard, and premium support levels. 
+All customers of {{site.data.keyword.Bluemix_notm}} are provided with free technical support through the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow for technical issues.  In addition, different levels of support are provided to meet different customer needs. Support levels differ between the free, basic, standard, and premium, as described in the following sections. 
 
-Levels | Free |  Basic | Standard | Premium
---- | --- | --- | --- | --- |
-Description | Support for all trial customers of {{site.data.keyword.Bluemix_notm}}.  |  Support for non-production environments or workloads where traditional severities and response times are not needed. | Support for environments with a limited number of business-critical applications. {{site.data.keyword.Bluemix_notm}} Dedicated and {{site.data.keyword.Bluemix_notm}} Local customers receive standard support. | Support for mission-critical environments that have a strategic dependence on {{site.data.keyword.Bluemix_notm}}. 
-Severity 1-4 support |  N/A | N/A | Included | Included 
-Support language | English | English | English, Japanese | English, Japanese
-Assigned client success manager (CSM) | Not included | Not included | Not included | Included at<br> 8 hours per week
-{: caption="Table 1. Support levels" caption-side="top"}
+#### Premium support
+
+Premium support is provided for mission-critical environments that have a strategic dependence on {{site.data.keyword.Bluemix_notm}}.
+
+Severity support | Support language | Assigned client success manager (CSM) 	
+--- | --- | --- |
+1-4 severity included | English, Japanese |  Included at 8 hours per week |
+{: caption="Table 1. Premium support" caption-side="top"}
+
+
+#### Standard support
+
+Standard support is provided for environments with a limited number of business-critical applications. {{site.data.keyword.Bluemix_notm}} Dedicated and {{site.data.keyword.Bluemix_notm}} Local customers receive standard support.
+
+Severity support | Support language | Assigned client success manager (CSM) 	
+--- | --- | --- | 
+1-4 severity included | English, Japanese | Not included |
+{: caption="Table 2. Standard support" caption-side="top"}
+
+
+#### Basic support
+
+Basic support is provided for non-production environments or workloads where traditional severities and response times are not needed.
+
+Severity support | Support language | Assigned client success manager (CSM) 	
+--- | --- | --- |
+Only severity 4 supported | English | Not included | 
+{: caption="Table 3. Basic support" caption-side="top"}
+
+
+#### Trial support
+
+Trial support is provided for all trial customers of {{site.data.keyword.Bluemix_notm}}.
+
+Severity support | Support language | Assigned client success manager (CSM) 	
+--- | --- | --- |
+Only severity 4 supported | English | Not included | 
+{: caption="Table 4. Trial support" caption-side="top"}
 
 **Important:** Support in the Japanese language is available for severity 2-4 tickets on Monday through Friday from 9:00 a.m. to 5:00 p.m. JST, excluding national or statutory holidays. Community and third-party services are excluded. Severity 1 tickets are addressed in English only.
 
 ### Opening a support ticket
 {: #open-ticket}
 
-If you are unable to resolve your technical problem with the troubleshooting and help options, you can ask for support. However, before contacting support for a technical issue, ensure that the problem is not due to an outage by checking [{{site.data.keyword.Bluemix_notm}} status ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixstatus){: new_window}.
-
-
+If you are unable to resolve your technical problem with the troubleshooting and help options, ensure that the problem is not due to an outage by checking [{{site.data.keyword.Bluemix_notm}} status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/status){: new_window}.
 
 If the problem is not due to an outage, open a support ticket by using one of the following options:
 
-  * From the menu bar, click **Support** and select **Add Ticket**. On the page that is displayed, fill in the form to indicate what type of technical support that you need.
+  * From the menu bar, click **Support** and select **Add Ticket**. On the page that is displayed, fill in the form to indicate the type of technical support that you need.
   * Use the [IBM {{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://www.ibm.biz/bluemixsupport){: new_window} help page. You can submit tickets for sales, IBM ID and login, billing, and technical support problems. For technical support problems, you can narrow the issue to a specific area or service. If you need help with a specific service, select the corresponding service category. To determine the category that your service belongs to, see Catalog in the menu bar.  
   
-When you open a support ticket, ensure that you indicate an appropriate severity for your ticket. The severity determines how your ticket is handled. See [Support ticket severity and response time](/docs/support/index.html#support-ticket-severity) for information about the different severities. If your support inquiry requires a more immediate response, we recommend upgrading to our Standard or Premium support tier so that you can raise severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} or email us at sales@bluemix.net.
+When you open a support ticket, ensure that you indicate an appropriate severity for your ticket. The severity determines how your ticket is handled. See [Support ticket severity and response time](/docs/support/index.html#support-ticket-severity) for information about the different severities. If your support inquiry requires a more immediate response, consider upgrading to the Standard or Premium support tier so that you can open severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} or email sales@bluemix.net.
 
 ### Opening a support ticket for linked accounts
 {: #open-ticket-linked}
@@ -206,8 +229,6 @@ To open a {{site.data.keyword.Bluemix_notm}} support ticket for a linked account
 {: #check-ticket-status}
 
 All client support issues are documented in a support ticket. Each support ticket is assigned a unique ticket number for reference and a severity level based upon the details in the ticket description. You can use the ticket number to review your support ticket progress and update the support ticket. From the menu bar, click **Support** and select **View Tickets**. Updates and responses are sent to you by email and recorded in the ticket notes.  
-
-
 
 
 ### Contacting support for Bluemix Dedicated
@@ -256,11 +277,11 @@ The following table lists some common examples of support issues, suggested seve
 
 Severity | Severity definition | Response time objectives | Response time coverage
 ------|-------- | --- | --- |
-Severity 1 | <strong>Critical business impact or service is down.</strong> <br> Business critical functionality is inoperable or critical interface is failed. This severity usually applies to a production environment and indicates that an inability to access services is leading to a critical impact on operations.  This condition requires an immediate solution. | <ul><li><strong>Free:</strong> N/A</li><li><strong>Basic:</strong> N/A</li><li><strong>Standard:</strong> Within 1 hour</li><li><strong>Premium:</strong> Within 1 hour</li></ul> | <ul><li><strong>Free:</strong> N/A</li><li><strong>Basic:</strong> N/A</li><li><strong>Standard:</strong> 24x7</li><li><strong>Premium:</strong> 24x7</li></ul> 			   
-Severity 2 | <strong>Significant business impact.</strong> <br> A service feature or function is severely restricted in its use or you are in danger of missing business deadlines. | <ul><li><strong>Free:</strong> N/A</li><li><strong>Basic:</strong> N/A </li><li><strong>Standard:</strong> Within 2 hours</li><li><strong>Premium:</strong> Within 90 minutes </li></ul> | <ul><li><strong>Free:</strong> N/A</li><li><strong>Basic:</strong> N/A </li><li><strong>Standard:</strong> Hours of operation </li><li><strong>Premium:</strong> Hours of operation </li></ul>
-Severity 3 | <strong>Minor business impact.</strong> <br> A service feature or function is usable, but has some problems that affect its use. No critical impact on operations is caused. | <ul><li><strong>Free:</strong> N/A</li><li><strong>Basic:</strong> N/A </li><li><strong>Standard:</strong> Within 4 hours</li><li><strong>Premium:</strong> Within 2 hours</li></ul> | <ul><li><strong>Free:</strong> N/A</li><li><strong>Basic:</strong> N/A </li><li><strong>Standard:</strong> Hours of operation </li><li><strong>Premium:</strong> Hours of operation </li></ul>
-Severity 4 | <strong>Minimal business impact.</strong> <br> An inquiry or non-technical request. | <ul><li><strong>Free:</strong> Best effort </li><li><strong>Basic:</strong> Best effort</li><li><strong>Standard:</strong> Within 8 hours</li><li><strong>Premium:</strong> Within 4 hours</li></ul> | <ul><li><strong>Free:</strong> Hours of operation </li><li><strong>Basic:</strong> Hours of operation </li><li><strong>Standard:</strong> Hours of operation </li><li><strong>Premium:</strong> Hours of operation </li></ul>
-{: caption="Table 2. Severity definition and response time" caption-side="top"}
+Severity 1 | <strong>Critical business impact or service is down.</strong> <br> Business critical functionality is inoperable or critical interface is failed. This severity usually applies to a production environment and indicates that an inability to access services is leading to a critical impact on operations.  This condition requires an immediate solution. | <ul><li><strong>Premium:</strong> Within 1 hour</li><li><strong>Standard:</strong> Within 1 hour</li><li><strong>Basic:</strong> N/A, cannot open severity 1 tickets</li><li><strong>Free:</strong> N/A, cannot open severity 1 tickets</li></ul> | <ul><li><strong>Premium:</strong> 24x7</li><li><strong>Standard:</strong> 24x7</li><li><strong>Basic:</strong> N/A, cannot open severity 1 tickets</li><li><strong>Free:</strong> N/A, cannot open severity 1 tickets</li></ul> 			   
+Severity 2 | <strong>Significant business impact.</strong> <br> A service feature or function is severely restricted in its use or you are in danger of missing business deadlines. | <ul><li><strong>Premium:</strong> Within 90 minutes </li><li><strong>Standard:</strong> Within 2 hours</li><li><strong>Basic:</strong> N/A, cannot open severity 2 tickets</li><li><strong>Free:</strong> N/A, cannot open severity 2 tickets</li></ul> | <ul><li><strong>Premium:</strong> Hours of operation </li><li><strong>Standard:</strong> Hours of operation </li><li><strong>Basic:</strong> N/A, cannot open severity 2 tickets</li><li><strong>Free:</strong> N/A, cannot open severity 2 tickets</li></ul>
+Severity 3 | <strong>Minor business impact.</strong> <br> A service feature or function is usable, but has some problems that affect its use. No critical impact on operations is caused. | <ul><li><strong>Premium:</strong> Within 2 hours</li><li><strong>Standard:</strong> Within 4 hours</li><li><strong>Basic:</strong> N/A, cannot open severity 3 tickets</li><li><strong>Free:</strong> N/A, cannot open severity 3 tickets</li></ul> | <ul><li><strong>Premium:</strong> Hours of operation </li><li><strong>Standard:</strong> Hours of operation </li><li><strong>Basic:</strong> N/A, cannot open severity 3 tickets</li><li><strong>Free:</strong> N/A, cannot open severity 3 tickets</li></ul>
+Severity 4 | <strong>Minimal business impact.</strong> <br> An inquiry or non-technical request. | <ul><li><strong>Premium:</strong> Within 4 hours</li><li><strong>Standard:</strong> Within 8 hours</li><li><strong>Basic:</strong> Best effort </li><li><strong>Free:</strong> Best effort</li></ul> | <ul><li><strong>Premium:</strong> Hours of operation </li><li><strong>Standard:</strong> Hours of operation </li><li><strong>Basic:</strong> Hours of operation </li><li><strong>Free:</strong> Hours of operation </li></ul>
+{: caption="Table 5. Severity definition and response time" caption-side="top"}
 
 
 ### How different services are supported
@@ -270,7 +291,7 @@ If the root cause analysis determines that the issue is a defect in the IBM gene
 * IBM Beta service or container image<br>
 IBM will release services or container images that are classified as a Beta release. A Beta release helps IBM development and marketing teams assess the value of the service in the market. As a result, they can make adjustments before potentially releasing it as a generally available service or container image. If the root cause analysis determines that the issue is a defect in the IBM Beta service or container image, then IBM is not obligated to provide a fix. Additionally, the ticket is assigned a severity 3 or 4 as appropriate. 
 * IBM experimental service or container image<br>
-IBM will release services or container images that are classified as experimental. These services might be unstable, change frequently, and might be discontinued with a short notice. For services that are classified as experimental, you can obtain community assistance through [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} and [dW Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} only.
+IBM will release services or container images that are classified as experimental. These services might be unstable, change frequently, and might be discontinued with a short notice. For services that are classified as experimental, you can obtain community assistance for technical issues through [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} and other issues through [dW Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} only.
 * Third-party service<br>
 Third-party services are provided by vendors outside of IBM. These services are provided by individual software entities, partners, or independent software vendors (ISV). If the root cause analysis determines that the issue is a defect in a third-party service, then IBM is not obligated to provide a fix. However, IBM will work through our Marketplace with the third-party service and our client to help solve the issue. 
 * Open source or community service<br>
@@ -283,7 +304,7 @@ Open source or community services are provided by open source communities outsid
 If you believe a potential security vulnerability occurs, report it to Bluemix by opening a support ticket. 
 
 To report a potential security vulnerability, complete the following steps:
-  1. Open a severity 1 ticket or a ticket of the highest severity level that your support allows. For information about how to open a ticket, see [Opening a support ticket ![External link icon](../icons/launch-glyph.svg "External link icon")](#open-ticket){: new_window}. 
+  1. Open a severity 1 ticket or a ticket of the highest severity level that your support allows. For information about how to open a ticket, see [Opening a support ticket](/docs/support/index.html#open-ticket). 
   2. Clearly describe in the ticket summary that the ticket is about a potential security vulnerability.
   2. Provide details of the potential security vulnerability by including one of the following items:
        * A phone number at which you can be reached to discuss the issue.
@@ -331,8 +352,13 @@ The scripts use the cf command line interface to extract the following informati
   * Events
   * Provisioned services
 
+## Satisfaction surveys for Bluemix support  
+{: #survey}
 
-## National language support for Bluemix
+IBM periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to obtain their feedback on recent experiences with the customer support. The survey focuses on the support quality and the overall experience. IBM management reviews the survey results to improve the support experience. 
+
+
+#### National language support for Bluemix
 {: #lang}
 
 {{site.data.keyword.Bluemix_notm}} supports national languages other than English. However, not all of the content that is provided with {{site.data.keyword.Bluemix_notm}} is translated.
@@ -351,22 +377,3 @@ The following table lists the supported national languages and language codes fo
 | Simplified Chinese | zh_CN |
 | Traditional Chinese | zh_TW |
 {: caption="Table 3. Supported national languages and language codes" caption-side="top"}
-
-
-
-## Satisfaction surveys for Bluemix support  
-{: #survey}
-
-IBM periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to obtain their feedback on recent experiences with the customer support. The survey focuses on the support quality and the overall experience. IBM management reviews the survey results to improve the support experience. 
-
-
-# rellinks
-{: #rellinks}
-
-## general
-{: #general}
-
-  * [Bluemix support portal ![External link icon](../icons/launch-glyph.svg "External link icon")](https://support.ibmcloud.com){: new_window}
-  * [dW Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}
-  * [Installing the cf command tool](/docs/starters/install_cli.html)
-  * [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}
