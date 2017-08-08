@@ -58,8 +58,8 @@ Use os itens de menu da Conta para manter-se atualizado com as notificações da
 
 Os fóruns de Stack Overflow e dW Answers fornecem, ambos, uma ampla variedade de respostas pesquisáveis para as suas perguntas do {{site.data.keyword.Bluemix_notm}}. Se você não encontrar uma resposta existente, faça uma nova pergunta. 
 
-  * Acesse [Stack Overflow ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} para fazer perguntas técnicas sobre o desenvolvimento de apps com a plataforma e serviços do {{site.data.keyword.Bluemix_notm}}.
-  * Acesse [dW Answers ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} para fazer perguntas sobre a oferta {{site.data.keyword.Bluemix_notm}} e sobre as instruções de introdução.
+  * Acesse o [Stack Overflow ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix "Ícone de link externo"){: new_window} para perguntar questões técnicas sobre o desenvolvimento de apps com a plataforma e os serviços do {{site.data.keyword.Bluemix_notm}}.
+  * Acesse o [dW Answers ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "Ícone de link externo"){: new_window} para fazer perguntas sobre a oferta {{site.data.keyword.Bluemix_notm}} e sobre instruções de introdução.
 
 
 Também é possível fazer uma pergunta no Stack Overflow diretamente dos itens de menu de suporte, concluindo as etapas a seguir:
@@ -89,7 +89,7 @@ Na página Status, é possível localizar as informações a seguir:
 É possível localizar a página Status, escolhendo uma das opções a seguir:
 
   * Efetue login no console do {{site.data.keyword.Bluemix_notm}}. Na barra de menus, clique em **Suporte** e selecione **Status**. Verifique os recursos listados para o ícone ![alguns problemas](images/some_issues.svg). Esse ícone pode indicar uma indisponibilidade.
-  * Acesse-o indiretamente em [IBM {{site.data.keyword.Bluemix_notm}} - Status do sistema ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixstatus){: new_window}.
+  * Acesse-o diretamente em [IBM {{site.data.keyword.Bluemix_notm}} - Status do sistema ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixstatus "Ícone de link externo"){: new_window}.
 
 
 ### Assinando um feed RSS
@@ -101,18 +101,18 @@ Para assinar, siga estas etapas:
 
   1. Faça download e instale um leitor RSS.
   2. Use seu leitor para assinar o feed por um dos métodos a seguir:
-       * Arraste o ícone RSS ![RSS](images/rss.svg) para seu leitor RSS.
+       * Arraste o ícone RSS ![RSS](images/rss.svg) para seu leitor RSS. 
        * Clique com o botão direito no ícone RSS, selecione **Copiar endereço de link** e cole a URL em seu leitor RSS.
 
 	Consulte a seção **Ajuda** do seu leitor para obter informações adicionais. 	   
 
 Outros métodos de leitura de feeds RSS estão disponíveis por meio de plug-ins do navegador da web, tais como: 
-  * [Leitor de feed RSS ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://feeder.co/){: new_window} para Chrome
-  * [Complemento Brief ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://addons.mozilla.org/en-US/firefox/addon/brief/){: new_window} para Firefox
+  * [Feed RSS ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://feeder.co/ "Ícone de link externo"){: new_window} Reader for Chrome
+  * [Brief ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://addons.mozilla.org/en-US/firefox/addon/brief/ "Ícone de link externo"){: new_window} add-on for Firefox
 
 Novas fontes, como os sites a seguir, também fornecem métodos para ler feeds RSS:
-  * [Feedly ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.feedly.com/){: new_window}
-  * [G2reader ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.g2reader.com/en/){: new_window}
+  * [Feedly ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.feedly.com/ "Ícone de link externo"){: new_window}
+  * [G2reader ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.g2reader.com/en/ "Ícone de link externo"){: new_window}
 
 Também é possível usar um serviço de terceiro para enviar automaticamente um e-mail para cada atualização de RSS. A lista a seguir fornece alguns serviços de terceiros de exemplo:
 
@@ -139,12 +139,12 @@ Para {{site.data.keyword.Bluemix_notm}} Public, é possível se inscrever para n
   * Verifique as próximas janelas de manutenção
 
 	Verifique as próximas janelas de manutenção postadas na página de status, pelo menos uma vez a cada 24 horas, usando uma das opções a seguir:
-	  * Navegando diretamente para a página [Status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixstatus){: new_window}
+	  * Navegando diretamente para a página [Status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixstatus "Ícone de link externo"){: new_window}
 	  * Usando o feed RSS ou um encaminhador de RSS para e-mail
 
   * Verifique as janelas atualmente em manutenção ou um incidente em andamento
 
-	Se você suspeitar que o {{site.data.keyword.Bluemix_notm}} não está funcionando conforme o esperado, verifique a página de status para janelas atualmente em manutenção ou para um incidente em andamento. Para relatar um incidente que ainda não esteja listado na página de status, abra um chamado de Suporte clicando em **Suporte** e selecionando **Incluir chamado** na barra de menus ou acessando a página de ajuda do [Suporte do IBM Bluemix ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.ibm.biz/bluemixsupport){: new_window}.
+	Se você suspeitar que o {{site.data.keyword.Bluemix_notm}} não está funcionando conforme o esperado, verifique a página de status para janelas atualmente em manutenção ou para um incidente em andamento. Para relatar um incidente que ainda não esteja listado na página de status, abra um chamado de Suporte clicando em **Suporte** e selecionando **Incluir chamado** na barra de menus ou acessando a página de ajuda do [Suporte do IBM Bluemix ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.ibm.biz/bluemixsupport "Ícone de link externo"){: new_window}.
 
   * Aproveite as diversas regiões do {{site.data.keyword.Bluemix_notm}}
 
@@ -173,7 +173,7 @@ Todos os clientes do {{site.data.keyword.Bluemix_notm}} são fornecidos com supo
 Níveis | Grátis |  Básica | Padrão | Premium
 --- | --- | --- | --- | --- |
 Descrição | Suporte para todos os clientes de avaliação do {{site.data.keyword.Bluemix_notm}}.  |  Suporte para ambientes que não sejam de produção ou cargas de trabalho em que severidades e tempos de resposta tradicionais não são necessários. | Suporte para ambientes com um número limitado de aplicativos críticos aos negócios. Clientes do {{site.data.keyword.Bluemix_notm}} Dedicated e do {{site.data.keyword.Bluemix_notm}} Local recebem suporte padrão. | Suporte para ambientes essenciais que têm uma dependência estratégica no {{site.data.keyword.Bluemix_notm}}. 
-Suporte de severidade 1-4 |  N/A | N/A | Incluído | Incluído
+Suporte de severidade 1-4 |  N/A | N/A | Incluído | Incluído 
 Idioma de suporte | Inglês | Inglês | Inglês, japonês | Inglês, japonês
 Client success manager (CSM) designado | Não incluído | Não incluído | Não incluído | Incluído em<br> 8 horas por semana
 {: caption="Tabela 1. Níveis de suporte" caption-side="top"}
@@ -183,16 +183,16 @@ Client success manager (CSM) designado | Não incluído | Não incluído | Não 
 ### Abrindo um chamado de suporte
 {: #open-ticket}
 
-Se você não conseguir resolver seu problema técnico com a resolução de problemas e as opções de ajuda, será possível perguntar ao suporte. No entanto, antes de entrar em contato com o suporte para um problema técnico, assegure que o problema não seja devido a uma indisponibilidade, verificando o status do [{{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixstatus){: new_window}.
+Se você não conseguir resolver seu problema técnico com a resolução de problemas e as opções de ajuda, será possível perguntar ao suporte. No entanto, antes de entrar em contato com o suporte para um problema técnico, assegure-se de que o problema não seja devido a uma indisponibilidade verificando o [status do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixstatus "Ícone de link externo"){: new_window}.
 
 
 
 Se o problema não for devido a uma indisponibilidade, abra um chamado de suporte usando uma das opções a seguir:
 
   * Na barra de menus, clique em **Suporte** e selecione **Incluir chamado**. Na página que é exibida, preencha o formulário para indicar o tipo de suporte técnico que você precisa.
-  * Use a página de ajuda do [Suporte do IBM {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.ibm.biz/bluemixsupport){: new_window}. É possível enviar chamados para problemas de vendas, IBMid e login, faturamento e suporte técnico. Para problemas de suporte técnico, é possível limitar o problema para uma área ou serviço específico. Se precisar de ajuda com um serviço específico, selecione a categoria de serviço correspondente. Para determinar a categoria à qual seu serviço pertence, veja Catálogo na barra de menus.  
+  * Use a página de ajuda [Suporte IBM {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.ibm.biz/bluemixsupport "Ícone de link externo"){: new_window}. É possível enviar chamados para problemas de vendas, IBMid e login, faturamento e suporte técnico. Para problemas de suporte técnico, é possível limitar o problema para uma área ou serviço específico. Se precisar de ajuda com um serviço específico, selecione a categoria de serviço correspondente. Para determinar a categoria à qual seu serviço pertence, veja Catálogo na barra de menus.  
   
-Ao abrir um chamado de suporte, assegure que você indique uma gravidade apropriada para seu chamado. A gravidade determina como o chamado será manipulado. Veja [Severidade e tempo de resposta do chamado de suporte](/docs/support/index.html#support-ticket-severity) para obter informações sobre as diferentes severidades. Se a sua consulta de suporte requerer uma resposta mais imediata, recomendamos fazer upgrade para nossa camada de suporte Padrão ou Premium para que seja possível criar chamados de suporte de severidade 1-4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com o [representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envie-nos um e-mail para sales@bluemix.net.
+Ao abrir um chamado de suporte, assegure que você indique uma gravidade apropriada para seu chamado. A gravidade determina como o chamado será manipulado. Veja [Severidade e tempo de resposta do chamado de suporte](/docs/support/index.html#support-ticket-severity) para obter informações sobre as diferentes severidades. Se a sua consulta de suporte requerer uma resposta mais imediata, recomendamos fazer upgrade para nossa camada de suporte Padrão ou Premium para que seja possível criar chamados de suporte de severidade 1-4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com o [representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us "Ícone de link externo"){: new_window} ou envie-nos um e-mail para sales@bluemix.net.
 
 ### Abrindo um chamado de suporte para contas vinculadas
 {: #open-ticket-linked}
@@ -220,7 +220,7 @@ Se você for um cliente do {{site.data.keyword.Bluemix_notm}} Dedicated, o supor
 <ul>
 <li>Entre em contato com o suporte abrindo um novo chamado usando a
 página de ajuda do <a href="http://www.ibm.biz/bluemixsupport" target="_blank">Suporte do IBM {{site.data.keyword.Bluemix_notm}}</a>. É possível usar um endereço de e-mail ou seu {{site.data.keyword.ibmid}} para esse formulário. Selecione a opção **{{site.data.keyword.Bluemix_notm}} Dedicated** para o campo Região.
-<p>Os envios de formulário são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC. Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com).</p>
+<p>Os envios de formulário são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC. Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com "Ícone de link externo").</p>
 </li>
 <li>Se você tiver um {{site.data.keyword.ibmid}} e tiver acesso ao ambiente do {{site.data.keyword.Bluemix_notm}} Public, na barra de menus, clique em **Suporte** e selecione **Incluir chamado**. Selecione a área de tópico para seu problema e siga os prompts para enviar seu chamado.</li>
 <li>Se você não tiver um {{site.data.keyword.ibmid}}, será possível entrar em contato com alguém de sua organização que tenha um ou trabalhar com seu representante IBM.
@@ -237,7 +237,7 @@ Se você for um cliente do {{site.data.keyword.Bluemix_notm}} Local, o suporte s
 <ul>
 <li>Entre em contato com o suporte abrindo um novo chamado usando a
 página de ajuda do <a href="http://www.ibm.biz/bluemixsupport" target="_blank">IBM {{site.data.keyword.Bluemix_notm}} Support <img src="../icons/launch-glyph.svg" alt="Ícone de link externo"></a>. É possível usar um endereço de e-mail ou seu {{site.data.keyword.ibmid}} para esse formulário. Selecione a opção **{{site.data.keyword.Bluemix_notm}} Local** para o campo Região.
-<p>Os envios de formulário são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC. Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com).</p>
+<p>Os envios de formulário são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC. Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com "Ícone de link externo").</p>
 </li>
 <li>Se você tiver um {{site.data.keyword.ibmid}} e tiver acesso ao ambiente do {{site.data.keyword.Bluemix_notm}} Public, na barra de menus, clique em **Suporte** e selecione **Incluir chamado**. Selecione a área de tópico para seu problema e siga os prompts para enviar seu chamado.</li>
 <li>Se você não tiver um {{site.data.keyword.ibmid}}, será possível entrar em contato com alguém de sua organização que tenha um ou trabalhar com seu representante IBM.
@@ -251,7 +251,7 @@ Ao entrar em contato com o suporte, é possível solicitar um nível de gravidad
 
 A tabela a seguir lista alguns exemplos comuns de problemas de suporte, níveis de severidade sugeridos e objetivos de tempo de resposta. Os objetivos de tempo de resposta são usados para descrever somente os objetivos da IBM e não representam uma garantia de desempenho.
 
-**Horas de operação:** de domingo às 21h30 UTC a sexta-feira às 23h59 UTC (excluindo feriados nos EUA/Itália/Austrália). Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com). Para obter mais informações sobre o planejamento de feriado, veja [Feriados do suporte do Bluemix ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixholidays). 
+**Horas de operação:** de domingo às 21h30 UTC a sexta-feira às 23h59 UTC (excluindo feriados nos EUA/Itália/Austrália). Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com "Ícone de link externo"). Para obter mais informações sobre o planejamento de feriado, veja [Feriados de suporte do Bluemix ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixholidays "Ícone de link externo"). 
 
 
 Severidade | Definição de severidade | Objetivos de tempo de resposta | Cobertura de tempo de resposta
@@ -270,7 +270,7 @@ Se a análise de causa raiz determinar que o problema é um defeito no serviço 
 * Serviço ou imagem de contêiner IBM Beta<br>
 A IBM liberará serviços ou imagens de contêiner que são classificados como uma liberação Beta. Uma liberação Beta ajuda as equipes de desenvolvimento e marketing IBM a avaliarem o valor do serviço no mercado. Como resultado, eles podem fazer ajustes antes de liberá-lo potencialmente como um serviço ou imagem de contêiner geralmente disponível. Se a análise de causa raiz determinar que o problema é um defeito no serviço ou imagem de contêiner IBM Beta, a IBM não será obrigada a fornecer uma correção. Além disso, o chamado é designado a uma severidade 3 ou 4, conforme apropriado. 
 * Serviço ou imagem de contêiner experimental IBM<br>
-A IBM liberará serviços ou imagens de contêiner que são classificados como experimentais. Esses serviços podem ser instáveis, mudar frequentemente e podem ser descontinuados com um curto aviso. Para serviços que são classificados como experimentais, é possível obter assistência da comunidade somente por meio de [Stack Overflow ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} e [dW Answers ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}.
+A IBM liberará serviços ou imagens de contêiner que são classificados como experimentais. Esses serviços podem ser instáveis, mudar frequentemente e podem ser descontinuados com um curto aviso. Para serviços que são classificados como experimentais, é possível obter assistência da comunidade somente por meio de [Stack Overflow ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix "Ícone de link externo"){: new_window} e [dW Answers ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "Ícone de link externo"){: new_window}.
 * Serviço de terceiro<br>
 Os serviços de terceiros são fornecidos por fornecedores fora da IBM. Esses serviços são fornecidos por entidades de software individuais, parceiros ou fornecedores de software independentes (ISV). Se a análise de causa raiz determinar que o problema é um defeito em um serviço de terceiro, a IBM não será obrigada a fornecer uma correção. No entanto, a IBM trabalhará por meio de nosso mercado de trabalho com o serviço de terceiro e nosso cliente para ajudar a resolver o problema. 
 * Serviço de software livre ou de comunidade<br>
@@ -283,7 +283,7 @@ Os serviços de software livre ou de comunidade são fornecidos por comunidades 
 Se você achar que uma potencial vulnerabilidade de segurança está ocorrendo, relate-a ao Bluemix abrindo um chamado de suporte. 
 
 Para relatar uma potencial vulnerabilidade de segurança, conclua as etapas a seguir:
-  1. Abra um chamado de severidade 1 ou um chamado do nível de severidade mais alto que seu suporte permita. Para obter informações sobre como abrir um chamado, veja [Abrindo um chamado de suporte ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](#open-ticket){: new_window}. 
+  1. Abra um chamado de severidade 1 ou um chamado do nível de severidade mais alto que seu suporte permita. Para obter informações sobre como abrir um chamado, veja [Abrindo um chamado de suporte ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](#open-ticket "Ícone de link externo"){: new_window}. 
   2. Descreva claramente no resumo do chamado que o chamado é sobre uma potencial vulnerabilidade de segurança.
   2. Forneça detalhes da potencial vulnerabilidade de segurança, incluindo um dos itens a seguir:
        * Um número de telefone no qual é possível contatá-lo para discutir o assunto.
@@ -316,12 +316,12 @@ Antes de coletar informações de diagnóstico, conclua as etapas a seguir:
 
   2. Assegure-se de que esteja conectado à interface da linha de comandos cf para onde o {{site.data.keyword.Bluemix_notm}} será executado usando o comando `cf api`.
 
-  3. Assegure-se de atender a todos os pré-requisitos em [Pré-requisitos do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/bluemix/support/#prereqs){: new_window}.
+  3. Assegure-se de que atenda a todos os pré-requisitos em [Pré-requisitos do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/bluemix/support/#prereqs "Ícone de link externo"){: new_window}.
 
 Use os scripts a seguir para coletar informações de diagnóstico:
 
-  * Para sistemas operacionais Windows, faça download do arquivo [bmdiag-general.bat ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} e execute-o.
-  * Para sistemas operacionais Linux e Mac, faça download do arquivo [bmdiag-general.sh ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} e execute-o.
+  * Para sistemas operacionais Windows, faça download do arquivo [bmdiag-general.bat ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat "Ícone de link externo"){: new_window} e execute-o.
+  * Para sistemas operacionais Linux e Mac, faça download do arquivo [bmdiag-general.sh ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh "Ícone de link externo"){: new_window} e execute-o.
 
 Os scripts usam a interface de linha de comandos cf para extrair as informações a seguir do ambiente de aplicativo:
 
@@ -366,7 +366,7 @@ Periodicamente, a IBM envia pesquisas de opinião aos clientes do {{site.data.ke
 ## general
 {: #general}
 
-  * [Portal de suporte do Bluemix ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://support.ibmcloud.com){: new_window}
-  * [dW Answers ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}
+  * [Portal de suporte do Bluemix ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://support.ibmcloud.com "Ícone de link externo"){: new_window}
+  * [dW Answers ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "Ícone de link externo"){: new_window}
   * [Instalando a ferramenta de comando cf](/docs/starters/install_cli.html)
-  * [Stack Overflow ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}
+  * [Stack Overflow ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix "Ícone de link externo"){: new_window}

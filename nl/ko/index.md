@@ -58,8 +58,8 @@ lastupdated: "2017-05-23"
 
 Stack Overflow 및 dW Answers 포럼은 사용자의 {{site.data.keyword.Bluemix_notm}} 질문에 검색 가능한 다양한 답변을 제공합니다. 기존 응답이 없는 경우 새 질문을 하십시오. 
 
-  * [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 플랫폼과 서비스를 사용한 앱 개발에 대해 기술적인 질문을 하십시오.
-  * [dW Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 오퍼링 및 시작하기 지시사항에 대해 질문하십시오.
+  * [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix "외부 링크 아이콘"){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 플랫폼과 서비스를 사용한 앱 개발에 대해 기술적인 질문을 하십시오.
+  * [dW Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "외부 링크 아이콘"){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 오퍼링 및 시작하기 지시사항에 대해 질문하십시오.
 
 
 또한 다음 단계를 수행하여 지원 메뉴 항목을 통해 직접 Stack Overflow에 질문할 수도 있습니다.
@@ -89,7 +89,7 @@ Stack Overflow 및 dW Answers 포럼은 사용자의 {{site.data.keyword.Bluemix
 다음 옵션 중 하나를 선택하여 상태 페이지를 찾을 수 있습니다.
 
   * {{site.data.keyword.Bluemix_notm}} 콘솔에 로그인하십시오. 메뉴 표시줄에서 **지원**을 클릭하고 **상태**를 선택하십시오. ![몇 가지 문제](images/some_issues.svg) 아이콘에 대해 나열된 리소스를 확인하십시오. 아이콘이 가동 중단을 표시할 수 있습니다.
-  * [IBM {{site.data.keyword.Bluemix_notm}} - System Status ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://ibm.biz/bluemixstatus){: new_window}에서 직접 액세스하십시오.
+  * [IBM {{site.data.keyword.Bluemix_notm}} - System Status ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://ibm.biz/bluemixstatus "외부 링크 아이콘"){: new_window}에서 직접 액세스하십시오.
 
 
 ### RSS 피드 구독
@@ -107,12 +107,12 @@ Stack Overflow 및 dW Answers 포럼은 사용자의 {{site.data.keyword.Bluemix
 	자세한 정보는 리더의 **도움말** 섹션을 참조하십시오. 	   
 
 RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러그인을 통해 확인할 수 있습니다. 
-  * Chrome용 [RSS Feed ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://feeder.co/){: new_window} 리더
-  * Firefox용 [Brief ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://addons.mozilla.org/en-US/firefox/addon/brief/){: new_window} 추가 기능
+  * Chrome용 [RSS Feed ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://feeder.co/ "외부 링크 아이콘"){: new_window} 리더
+  * Firefox용 [Brief ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://addons.mozilla.org/en-US/firefox/addon/brief/ "외부 링크 아이콘"){: new_window} 추가 기능
 
 다음 사이트와 같은 뉴스 소스도 RSS 피드를 읽는 방법을 제공합니다.
-  * [Feedly ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.feedly.com/){: new_window}
-  * [G2reader ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.g2reader.com/en/){: new_window}
+  * [Feedly ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.feedly.com/ "외부 링크 아이콘"){: new_window}
+  * [G2reader ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.g2reader.com/en/ "외부 링크 아이콘"){: new_window}
 
 써드파티 서비스를 사용하여 각 RSS 업데이트에 대한 이메일을 자동으로 전송할 수도 있습니다. 다음 목록은 써드파티 서비스의 예입니다.
 
@@ -139,12 +139,12 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
   * 다가오는 유지보수 기간 확인
 
 	다음 옵션 중 하나를 사용하여 최소한 24시간마다 한 번씩 상태 페이지에 게시되는 다가오는 유지보수 기간 확인
-	  * [상태 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://ibm.biz/bluemixstatus){: new_window} 페이지로 직접 이동
+	  * [상태 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://ibm.biz/bluemixstatus "외부 링크 아이콘"){: new_window} 페이지로 직접 이동
 	  * RSS 피드 또는 RSS에서 이메일로 전달자 사용
 
   * 진행 중인 인시던트 또는 현재 유지보수 기간 확인
 
-	{{site.data.keyword.Bluemix_notm}}가 예상대로 작동하고 있지 않다고 의심하는 경우에는 상태 페이지에서 진행 중인 인시던트 또는 현재 유지보수 기간을 확인하십시오. 상태 페이지에 아직 나열되지 않은 인시던트를 보고하려면 **지원**을 클릭하고 메뉴 표시줄에서 **티켓 추가**를 선택하거나 [IBM Bluemix Support ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport){: new_window} 도움말 페이지에 액세스하여 지원 티켓을 여십시오.
+	{{site.data.keyword.Bluemix_notm}}가 예상대로 작동하고 있지 않다고 의심하는 경우에는 상태 페이지에서 진행 중인 인시던트 또는 현재 유지보수 기간을 확인하십시오. 상태 페이지에 아직 나열되지 않은 인시던트를 보고하려면 **지원**을 클릭하고 메뉴 표시줄에서 **티켓 추가**를 선택하거나 [IBM Bluemix Support ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport "외부 링크 아이콘"){: new_window} 도움말 페이지에 액세스하여 지원 티켓을 여십시오.
 
   * 다중 {{site.data.keyword.Bluemix_notm}} 지역 활용
 
@@ -170,12 +170,16 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 
 {{site.data.keyword.Bluemix_notm}}의 모든 고객에게 {{site.data.keyword.Bluemix_notm}} 커뮤니티 또는 Stack Overflow를 통해 무료 기술 지원이 제공됩니다. 또한 다양한 고객 요구사항을 충족할 수 있도록 다양한 레벨의 지원이 제공됩니다. 다음 표를 참조하여 무료, 기본, 표준 및 프리미엄 지원 레벨 간에 선택할 수 있습니다.  
 
-레벨 | 무료 |  기본 | 표준 | 프리미엄
+레벨| 무료|  기본| 표준| 프리미엄
+
 --- | --- | --- | --- | --- |
-설명 | {{site.data.keyword.Bluemix_notm}}의 모든 시험판 고객을 지원합니다.  |  기존의 심각도 및 응답 시간이 필요하지 않은 프로덕션 이외의 환경이나 워크로드를 지원합니다. | 제한된 수의 비즈니스 핵심 애플리케이션이 있는 환경을 지원합니다. {{site.data.keyword.Bluemix_notm}} 데디케이티드 및 {{site.data.keyword.Bluemix_notm}} 로컬 고객이 표준 지원을 받습니다. | {{site.data.keyword.Bluemix_notm}}에서 전략적 의존성이 있는 매우 중요한 환경을 지원합니다.
-심각도 1-4 지원 |  해당사항 없음 | 해당사항 없음 | 포함 | 포함된
-지원 언어 | 영어 | 영어 | 영어, 일본어 | 영어, 일본어
-지정 CSM(Client Success Manager) | 포함되지 않음 | 포함되지 않음 | 포함되지 않음 | 포함:<br> 주당 8시간
+설명 
+| {{site.data.keyword.Bluemix_notm}}의 모든 시험판 고객을 지원합니다.|  기존의 심각도 및 응답 시간이 필요하지 않은 프로덕션 이외의 환경이나 워크로드를 지원합니다.| 제한된 수의 비즈니스 핵심 애플리케이션이 있는 환경을 지원합니다. {{site.data.keyword.Bluemix_notm}} 데디케이티드 및 {{site.data.keyword.Bluemix_notm}} 로컬 고객이 표준 지원을 받습니다.| {{site.data.keyword.Bluemix_notm}}에서 전략적 의존성이 있는 매우 중요한 환경을 지원합니다.
+
+심각도 1-4 지원|  해당사항 없음| 해당사항 없음| 포함| 포함
+지원 언어 | 영어| 영어| 영어, 일본어| 영어, 일본어
+지정된 CSM(Client Success Manager) | 포함되지 않음| 포함되지 않음| 포함되지 않음| 포함:<br> 주당 8시간
+
 {: caption="표 1. 지원 레벨" caption-side="top"}
 
 **중요:** 일본어 지원은 심각도 2 - 4인 티켓에서 월요일부터 금요일까지(일본 표준시 오전 9시 - 오후 5시) 가능하며, 법정 공휴일은 제외됩니다. 커뮤니티 및 써드파티 서비스는 제외됩니다. 심각도 1 티켓은 영어로만 처리됩니다.
@@ -183,16 +187,16 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 ### 지원 티켓 열기
 {: #open-ticket}
 
-문제점 해결 및 도움말 옵션으로 기술적인 문제점을 해결할 수 없는 경우에는 지원을 요청할 수 있습니다. 단, 기술적인 문제에 대한 지원을 요청하기 전에 [{{site.data.keyword.Bluemix_notm}} 상태 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://ibm.biz/bluemixstatus){: new_window}를 확인하여 가동 중단으로 인한 문제점이 아닌지 확인하십시오.
+문제점 해결 및 도움말 옵션으로 기술적인 문제점을 해결할 수 없는 경우에는 지원을 요청할 수 있습니다. 단, 기술적인 문제에 대한 지원을 요청하기 전에 [{{site.data.keyword.Bluemix_notm}} 상태 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://ibm.biz/bluemixstatus "외부 링크 아이콘"){: new_window}를 확인하여 가동 중단으로 인한 문제점이 아닌지 확인하십시오.
 
 
 
 가동 중단으로 인한 문제점이 아닌 경우 다음 옵션 중 하나를 사용하여 지원 티켓을 여십시오. 
 
   * 메뉴 표시줄에서 **지원**을 클릭하고 **티켓 추가**를 선택하십시오. 표시되는 페이지에서 양식을 채워 필요한 기술 지원 유형을 표시하십시오.
-  * [IBM {{site.data.keyword.Bluemix_notm}} Support ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport){: new_window} 도움말 페이지를 사용하십시오. 판매, IBM ID 및 로그인, 청구 및 기술 지원 문제점에 대한 티켓을 제출할 수 있습니다. 기술 지원 문제점의 경우 특정 영역 또는 서비스로 문제 범위를 좁힐 수 있습니다. 특정 서비스에 대한 도움이 필요하면 해당되는 서비스 카테고리를 선택하십시오. 서비스가 속한 카테고리를 판별하려면 메뉴 표시줄에서 카탈로그를 참조하십시오.  
+  * [IBM {{site.data.keyword.Bluemix_notm}} Support ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport "외부 링크 아이콘"){: new_window} 도움말 페이지를 사용하십시오. 판매, IBM ID 및 로그인, 청구 및 기술 지원 문제점에 대한 티켓을 제출할 수 있습니다. 기술 지원 문제점의 경우 특정 영역 또는 서비스로 문제 범위를 좁힐 수 있습니다. 특정 서비스에 대한 도움이 필요하면 해당되는 서비스 카테고리를 선택하십시오. 서비스가 속한 카테고리를 판별하려면 메뉴 표시줄에서 카탈로그를 참조하십시오.  
   
-지원 티켓을 열 때, 티켓에 적합한 심각도를 지정하도록 하십시오. 심각도에 따라 티켓 처리 방식이 결정되기 때문입니다. 서로 다른 심각도에 대한 정보는 [지원 티켓 심각도 및 응답 시간](/docs/support/index.html#support-ticket-severity)을 참조하십시오. 지원 조회에 대한 보다 즉각적인 응답이 필요한 경우에는 심각도 1-4 지원 티켓을 올릴 수 있도록 표준 또는 프리미엄 지원 계층으로 업그레이드하는 것을 권장합니다. 계정을 높은 지원 레벨로 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}에게 문의하거나 sales@bluemix.net으로 이메일을 보내십시오.
+지원 티켓을 열 때, 티켓에 적합한 심각도를 지정하도록 하십시오. 심각도에 따라 티켓 처리 방식이 결정되기 때문입니다. 서로 다른 심각도에 대한 정보는 [지원 티켓 심각도 및 응답 시간](/docs/support/index.html#support-ticket-severity)을 참조하십시오. 지원 조회에 대한 보다 즉각적인 응답이 필요한 경우에는 심각도 1-4 지원 티켓을 올릴 수 있도록 표준 또는 프리미엄 지원 계층으로 업그레이드하는 것을 권장합니다. 계정을 높은 지원 레벨로 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud-computing/bluemix/contact-us "외부 링크 아이콘"){: new_window}에게 문의하거나 sales@bluemix.net으로 이메일을 보내십시오.
 
 ### 연결된 계정에 대한 지원 티켓 열기
 {: #open-ticket-linked}
@@ -220,7 +224,7 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 <ul>
 <li><a href="http://www.ibm.biz/bluemixsupport" target="_blank">IBM {{site.data.keyword.Bluemix_notm}} 지원</a> 도움말 페이지를 사용하여
 새 티켓을 열어 지원 센터에 연락하십시오. 이 양식에 이메일 주소 또는 {{site.data.keyword.ibmid}}를 사용할 수 있습니다. 지역 필드에 대해 **{{site.data.keyword.Bluemix_notm}} 데디케이티드** 옵션을 선택하십시오.
-<p>양식 제출은 일요일 21:30 UTC부터 금요일 23:59 UTC까지 모니터링됩니다. 이러한 지원 시간을 로컬 시간대로 변환하는 데 도움을 받으려면 [Timeanddate.com ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.timeanddate.com)을 참조하십시오.</p>
+<p>양식 제출은 일요일 21:30 UTC부터 금요일 23:59 UTC까지 모니터링됩니다. 이러한 지원 시간을 로컬 시간대로 변환하는 데 도움을 받으려면 [Timeanddate.com ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.timeanddate.com "외부 링크 아이콘")을 참조하십시오.</p>
 </li>
 <li>{{site.data.keyword.ibmid}}가 있고 {{site.data.keyword.Bluemix_notm}} 퍼블릭 환경에 대한 액세스 권한이 있는 경우, 메뉴 표시줄에서 **지원**을 클릭하고 **티켓 추가**를 클릭하십시오. 문제에 대한 주제 영역을 선택하고 프롬프트에 따라 티켓을 제출하십시오.</li>
 <li>{{site.data.keyword.ibmid}}가 없는 경우 이 ID를 가진 조직의 사용자에게 문의하거나 IBM 담당자와 함께 작업할 수 있습니다.
@@ -237,7 +241,7 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 <ul>
 <li><a href="http://www.ibm.biz/bluemixsupport" target="_blank">IBM {{site.data.keyword.Bluemix_notm}} 지원 <img src="../icons/launch-glyph.svg" alt="외부 링크 아이콘"></a> 도움말
 페이지를 사용하여 새 티켓을 열어 지원을 요청하십시오. 이 양식에 이메일 주소 또는 {{site.data.keyword.ibmid}}를 사용할 수 있습니다. 지역 필드에 대해 **{{site.data.keyword.Bluemix_notm}} 로컬** 옵션을 선택하십시오.
-<p>양식 제출은 일요일 21:30 UTC부터 금요일 23:59 UTC까지 모니터링됩니다. 이러한 지원 시간을 로컬 시간대로 변환하는 데 도움을 받으려면 [Timeanddate.com ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.timeanddate.com)을 참조하십시오.</p>
+<p>양식 제출은 일요일 21:30 UTC부터 금요일 23:59 UTC까지 모니터링됩니다. 이러한 지원 시간을 로컬 시간대로 변환하는 데 도움을 받으려면 [Timeanddate.com ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.timeanddate.com "외부 링크 아이콘")을 참조하십시오.</p>
 </li>
 <li>{{site.data.keyword.ibmid}}가 있고 {{site.data.keyword.Bluemix_notm}} 퍼블릭 환경에 대한 액세스 권한이 있는 경우, 메뉴 표시줄에서 **지원**을 클릭하고 **티켓 추가**를 클릭하십시오. 문제에 대한 주제 영역을 선택하고 프롬프트에 따라 티켓을 제출하십시오.</li>
 <li>{{site.data.keyword.ibmid}}가 없는 경우 이 ID를 가진 조직의 사용자에게 문의하거나 IBM 담당자와 함께 작업할 수 있습니다.
@@ -251,15 +255,16 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 
 다음 표에는 지원 문제, 권장 심각도 레벨 및 응답 시간 목표에 대한 일부 일반적인 예가 나열되어 있습니다. 응답 시간 목표는 IBM 목표의 기술에만 사용되며, 성능 보장은 나타내지 않습니다.
 
-**운영 시간:** 일요일 21:30 UTC부터 금요일 23:59 UTC까지(미국/이탈리아/오스트레일리아 휴일 제외). 이러한 지원 시간을 로컬 시간대로 변환하는 데 도움을 받으려면 [Timeanddate.com ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.timeanddate.com)을 참조하십시오. 휴일 스케줄에 대한 자세한 정보는 [Bluemix Support Holidays ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://ibm.biz/bluemixholidays)를 참조하십시오. 
+**운영 시간:** 일요일 21:30 UTC부터 금요일 23:59 UTC까지(미국/이탈리아/오스트레일리아 휴일 제외). 이러한 지원 시간을 로컬 시간대로 변환하는 데 도움을 받으려면 [Timeanddate.com ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.timeanddate.com "외부 링크 아이콘")을 참조하십시오.휴일 스케줄에 대한 자세한 정보는 [Bluemix Support Holidays ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://ibm.biz/bluemixholidays "외부 링크 아이콘")를 참조하십시오. 
 
 
-심각도 | 심각도 정의 | 응답 시간 목표 | 응답 시간 커버리지
+심각도| 심각도 정의| 응답 시간 목표| 응답 시간 커버리지
+
 ------|-------- | --- | --- |
-심각도 1 | <strong>중요 비즈니스 영향 또는 서비스 중단.</strong> <br> 비즈니스 중요 기능이 작동되지 않거나 중요 인터페이스에 장애가 발생합니다. 이 심각도는 일반적으로 프로덕션 환경에 적용되며, 서비스에 액세스하지 못하여 운영에 중요 영향이 발생함을 표시합니다. 이 상태에서는 즉각적인 솔루션이 필요합니다.  | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 1시간 이내</li><li><strong>프리미엄:</strong> 1시간 이내</li></ul> | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 24시간 x 7일</li><li><strong>프리미엄:</strong> 24시간 x 7일</li></ul> 			   
-심각도 2 | <strong>중대한 비즈니스 영향.</strong> <br> 서비스 특성 또는 기능의 사용에 상당한 제약이 있거나, 비즈니스 최종 기한을 맞추지 못할 위험에 노출됩니다.  | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 2시간 이내</li><li><strong>프리미엄:</strong> 90분 이내</li></ul> | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 운영 시간</li><li><strong>프리미엄:</strong> 운영 시간</li></ul>
-심각도 3 | <strong>사소한 비즈니스 영향.</strong> <br> 서비스 특성 또는 기능을 사용할 수는 있지만, 일부 문제점 때문에 사용에 영향이 있습니다. 운영 관련 중요 영향은 발생하지 않습니다. | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 4시간 이내</li><li><strong>프리미엄:</strong> 2시간 이내</li></ul> | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 운영 시간</li><li><strong>프리미엄:</strong> 운영 시간</li></ul>
-심각도 4 | <strong>미미한 비즈니스 영향.</strong> <br> 문의 또는 기술적 이외의 요청. | <ul><li><strong>무료:</strong> 최상의 노력</li><li><strong>기본:</strong> 최상의 노력</li><li><strong>표준:</strong> 8시간 이내</li><li><strong>프리미엄:</strong> 4시간 이내</li></ul> | <ul><li><strong>무료:</strong> 운영 시간</li><li><strong>기본:</strong> 운영 시간</li><li><strong>표준:</strong> 운영 시간</li><li><strong>프리미엄:</strong> 운영 시간</li></ul>
+심각도 1| <strong>중요 비즈니스 영향 또는 서비스 중단.</strong> <br> 비즈니스 중요 기능이 작동되지 않거나 중요 인터페이스에 장애가 발생합니다. 이 심각도는 일반적으로 프로덕션 환경에 적용되며, 서비스에 액세스하지 못하여 운영에 중요 영향이 발생함을 표시합니다. 이 상태에서는 즉각적인 솔루션이 필요합니다. | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 1시간 이내</li><li><strong>프리미엄:</strong> 1시간 이내</li></ul> | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 24시간 x 7일</li><li><strong>프리미엄:</strong> 24시간 x 7일</li></ul> 			   
+심각도 2| <strong>중대한 비즈니스 영향.</strong> <br> 서비스 특성 또는 기능의 사용에 상당한 제약이 있거나, 비즈니스 최종 기한을 맞추지 못할 위험에 노출됩니다. | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 2시간 이내</li><li><strong>프리미엄:</strong> 90분 이내</li></ul> | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 운영 시간</li><li><strong>프리미엄:</strong> 운영 시간</li></ul>
+심각도 3| <strong>사소한 비즈니스 영향.</strong> <br> 서비스 특성 또는 기능을 사용할 수는 있지만, 일부 문제점 때문에 사용에 영향이 있습니다. 운영 관련 중요 영향은 발생하지 않습니다.| <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 4시간 이내</li><li><strong>프리미엄:</strong> 2시간 이내</li></ul> | <ul><li><strong>무료:</strong> 해당사항 없음</li><li><strong>기본:</strong> 해당사항 없음</li><li><strong>표준:</strong> 운영 시간</li><li><strong>프리미엄:</strong> 운영 시간</li></ul>
+심각도 4| <strong>미미한 비즈니스 영향.</strong> <br> 문의 또는 기술적 이외의 요청.| <ul><li><strong>무료:</strong> 최상의 노력</li><li><strong>기본:</strong> 최상의 노력</li><li><strong>표준:</strong> 8시간 이내</li><li><strong>프리미엄:</strong> 4시간 이내</li></ul> | <ul><li><strong>무료:</strong> 운영 시간</li><li><strong>기본:</strong> 운영 시간</li><li><strong>표준:</strong> 운영 시간</li><li><strong>프리미엄:</strong> 운영 시간</li></ul>
 {: caption="표 2. 심각도 정의 및 응답 시간" caption-side="top"}
 
 
@@ -270,7 +275,7 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 * IBM의 베타 서비스 또는 컨테이너 이미지<br>
 IBM은 베타 릴리스로 분류되는 서비스 또는 컨테이너 이미지를 릴리스합니다. 베타 릴리스는 IBM 개발 및 마케팅 팀이 시장에서 서비스 가치를 평가하는 데 도움이 됩니다. 따라서 잠재적으로 일반 공개 서비스 또는 컨테이너 이미지로 릴리스하기 전에 베타 릴리스를 조정할 수 있습니다. 근본 원인 분석을 통해 문제가 IBM 베타 릴리스 서비스 또는 컨테이너 이미지의 결함임이 판별되는 경우 IBM은 수정사항을 제공하지 않아도 됩니다. 또한 티켓은 심각도 3 또는 4로 적절하게 지정됩니다. 
 * IBM의 시범 서비스 또는 컨테이너 이미지<br>
-IBM은 시범으로 분류되는 서비스 또는 컨테이너 이미지를 릴리스합니다. 이러한 서비스는 불안정하거나 자주 변경될 수 있으며 갑자기 중단될 수 있습니다. 시범으로 분류되는 서비스의 경우 [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} 및 [dW Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}를 통해서만 커뮤니티 지원을 받을 수 있습니다.
+IBM은 시범으로 분류되는 서비스 또는 컨테이너 이미지를 릴리스합니다. 이러한 서비스는 불안정하거나 자주 변경될 수 있으며 갑자기 중단될 수 있습니다. 시범으로 분류되는 서비스의 경우 [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix "외부 링크 아이콘"){: new_window} 및 [dW Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "외부 링크 아이콘"){: new_window}를 통해서만 커뮤니티 지원을 받을 수 있습니다.
 * 써드파티 서비스<br>
 써드파티 서비스는 IBM 외부 벤더에서 제공합니다. 이러한 서비스는 개별 소프트웨어 엔티티, 파트너 또는 솔루션파트너(ISV)가 제공합니다. 근본 원인 분석을 통해 문제가 써드파티 서비스의 결함임이 판별되는 경우 IBM은 수정사항을 제공하지 않아도 됩니다. 하지만 IBM은 자사 마켓플레이스를 통해 써드파티 서비스 및 자사 고객과 함께 작업하여 문제를 해결하는 데 도움을 줍니다. 
 * 오픈 소스 또는 커뮤니티 서비스<br>
@@ -283,7 +288,7 @@ IBM은 시범으로 분류되는 서비스 또는 컨테이너 이미지를 릴�
 잠재적 보안 취약성이 발생한다고 생각되면 지원 티켓을 열어서 이를 Bluemix에 보고하십시오. 
 
 잠재적 보안 취약성을 보고하려면 다음 단계를 완료하십시오. 
-  1. 심각도 1 티켓 또는 지원에서 허용하는 최상위 심각도 레벨의 티켓을 여십시오. 티켓을 여는 방법에 대한 정보는 [지원 티켓 열기 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](#open-ticket){: new_window}를 참조하십시오. 
+  1. 심각도 1 티켓 또는 지원에서 허용하는 최상위 심각도 레벨의 티켓을 여십시오. 티켓을 여는 방법에 대한 정보는 [지원 티켓 열기 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](#open-ticket "외부 링크 아이콘"){: new_window}를 참조하십시오. 
   2. 해당 티켓이 잠재적 보안 취약성에 대한 티켓임을 티켓 요약에 명시하십시오.
   2. 다음 항목 중 하나를 포함하여 잠재적 보안 취약성의 세부사항을 제공하십시오.
        * 해당 문제를 논의하기 위해 통화할 수 있는 전화번호.
@@ -316,12 +321,12 @@ IBM은 시범으로 분류되는 서비스 또는 컨테이너 이미지를 릴�
 
   2. `cf api` 명령을 사용하여 {{site.data.keyword.Bluemix_notm}}가 실행 중인 cf 명령행 인터페이스에 연결되었는지 확인하십시오.
 
-  3. [{{site.data.keyword.Bluemix_notm}} 전제조건 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/bluemix/support/#prereqs){: new_window}에서 모든 전제조건을 충족하는지 확인하십시오.
+  3. [{{site.data.keyword.Bluemix_notm}} 전제조건 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/bluemix/support/#prereqs "외부 링크 아이콘"){: new_window}에서 모든 전제조건을 충족하는지 확인하십시오.
 
 진단 정보를 수집하려면 다음 스크립트를 사용하십시오.
 
-  * Windows 운영 체제의 경우 [bmdiag-general.bat ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} 파일을 다운로드하고 이를 실행하십시오.
-  * Linux 및 Mac 운영 체제의 경우 [bmdiag-general.sh ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} 파일을 다운로드하고 이를 실행하십시오.
+  * Windows 운영 체제의 경우 [bmdiag-general.bat ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat "외부 링크 아이콘"){: new_window} 파일을 다운로드하고 이를 실행하십시오.
+  * Linux 및 Mac 운영 체제의 경우 [bmdiag-general.sh ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh "외부 링크 아이콘"){: new_window} 파일을 다운로드하고 이를 실행하십시오.
 
 스크립트는 cf 명령행 인터페이스를 사용하여 애플리케이션 환경에서 다음 정보를 추출합니다.
 
@@ -340,16 +345,16 @@ IBM은 시범으로 분류되는 서비스 또는 컨테이너 이미지를 릴�
 
 | **자국어** | **언어 코드** |
 |-------------------|---------------|
-| 브라질 포르투갈어 | pt_BR |
-| 영어 | en |
-| 프랑스어 | fr |
-| 독일어 | de |
-| 일본어 | ja |
-| 한국어 | ko |
-| 이탈리아어 | it |
-| 스페인어 | es |
-| 중국어 | zh_CN |
-| 대만어 | zh_TW |
+| 브라질 포르투갈어| pt_BR|
+| 영어| en|
+| 프랑스어| fr|
+| 독일어| de|
+| 일본어| ja|
+| 한국어| ko|
+| 이탈리아어| it|
+| 스페인어| es|
+| 중국어| zh_CN|
+| 대만어| zh_TW|
 {: caption="표 3. 지원되는 자국어 및 언어 코드" caption-side="top"}
 
 
@@ -360,13 +365,13 @@ IBM은 시범으로 분류되는 서비스 또는 컨테이너 이미지를 릴�
 IBM은 주기적으로 {{site.data.keyword.Bluemix_notm}} 고객에게 설문조사를 발송하고 최근 고객 지원 경험에 대한 피드백을 얻습니다. 설문조사는 지원 품질 및 전반적 경험에 초점을 둡니다. IBM 관리 담당자는 설문조사 결과를 검토하여 지원 경험을 개선합니다.  
 
 
-# rellinks
+# 관련 링크
 {: #rellinks}
 
-## general
+## 일반
 {: #general}
 
-  * [Bluemix 지원 포털 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://support.ibmcloud.com){: new_window}
-  * [dW Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}
+  * [Bluemix 지원 포털 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://support.ibmcloud.com "외부 링크 아이콘"){: new_window}
+  * [dW Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "외부 링크 아이콘"){: new_window}
   * [cf 명령 도구 설치](/docs/starters/install_cli.html)
-  * [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}
+  * [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix "외부 링크 아이콘"){: new_window}
