@@ -358,7 +358,7 @@ The scripts use the cf command line interface to extract the following informati
 IBM periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to obtain their feedback on recent experiences with the customer support. The survey focuses on the support quality and the overall experience. IBM management reviews the survey results to improve the support experience. 
 
 
-#### National language support for Bluemix
+## National language support for Bluemix
 {: #lang}
 
 {{site.data.keyword.Bluemix_notm}} supports national languages other than English. However, not all of the content that is provided with {{site.data.keyword.Bluemix_notm}} is translated.
