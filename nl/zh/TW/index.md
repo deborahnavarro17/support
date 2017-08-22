@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017  
-lastupdated: "2017-05-23"
+lastupdated: "2017-08-28"
 
 ---
 
@@ -14,24 +14,20 @@ lastupdated: "2017-05-23"
 {: #getting-customer-support}
 
 
-
 如果您遇到 {{site.data.keyword.Bluemix}} 問題，則有數個支援選項，例如透過討論區取得協助，或開立支援問題單。
 {:shortdesc}
 
 
 ## 取得協助
 {: #getting-help}
-若要開立支援問題單，或尋找其他協助選項，您可以使用「支援」小組件。您也可以直接移至 Stack Overflow 或 developerWorks (dW) Answers 討論區，以搜尋資訊或張貼問題。
-如果您要使用在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer}} 之間鏈結的帳戶，請參閱[使用鏈結帳戶的支援小組件](#using-avatar-linked)及[開立鏈結帳戶的支援問題單](#open-ticket-linked)。
-
-{:shortdesc}
+若要尋找協助選項或開立支援問題單，您可以使用「支援」小組件。若要搜尋資訊或張貼問題，您可以直接前往 Stack Overflow 討論區（針對技術問題），或 developerWorks (dW) Answers 討論區（針對其他問題）。如果您要使用在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer}} 之間鏈結的帳戶，請參閱[使用鏈結帳戶的支援小組件](#using-avatar-linked)及[開立鏈結帳戶的支援問題單](/docs/support/index.html#open-ticket-linked)。  
 
 
 ### 使用支援小組件
 {: #using-avatar}
 「支援」小組件可讓您取得協助，並提供意見。
 
-若要開啟「支援」小組件，請登入 {{site.data.keyword.Bluemix_notm}} 主控台。在功能表列上，按一下**支援**，然後選取**尋找答案**，以找出問題的答案。在顯示的頁面上，於搜尋欄位中鍵入您的問題。畫面上會顯示 {{site.data.keyword.Bluemix_notm}} 文件及 Stack Overflow 提供的答案。此頁面也會提供選項，將您的問題張貼至 Stack Overflow，或按一下**保持聯繫**來開立問題單。雖然支援小組件是取得支援的偏好方法，但是如果您無法登入 Bluemix，則也可以使用[取得協助](http://www.ibm.biz/bluemixsupport)頁面來提交問題單。
+若要開啟「支援」小組件，請登入 {{site.data.keyword.Bluemix_notm}} 主控台。在功能表列上，按一下**支援**，然後選取**尋找答案**，以找出問題的答案。在搜尋欄位中輸入您的問題，以顯示 {{site.data.keyword.Bluemix_notm}} 文件及 Stack Overflow 提供的答案。您也可以按一下**貼文到 Stack Overflow** 來張貼技術問題，或按一下**保持聯繫**來開立問題單。支援小組件是取得支援的偏好方法，但是如果您無法登入 Bluemix，可以使用[取得協助](http://www.ibm.biz/bluemixsupport)頁面來提交問題單。
 
 ### 針對鏈結帳戶使用支援小組件
 {: #using-avatar-linked}
@@ -39,11 +35,11 @@ lastupdated: "2017-05-23"
 如果您要使用在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer}} 之間鏈結的帳戶，則「支援」小組件會略為不同。登入 {{site.data.keyword.Bluemix_notm}} 主控台，然後按一下功能表列上的**支援**，以開啟「支援」小組件。然後，選取**新增問題單**或**尋找答案**。下列是您可用的選項：
 
 * 您可以設定過濾器，將搜尋結果變更成只包括選取的項目，以搜尋 {{site.data.keyword.Bluemix_notm}} 文件及 Stack Overflow。
-* 您可以直接鏈結至 Stack Overflow **#IBMBluemix**，以進行搜尋或張貼。
-* 您可以將結構化構想提交至 [IBM Cloud - Structured Ideas](https://ibmcloud.ideas.aha.io/) 網站。
-* 呼叫或尋找業務代表，即可聯絡銷售人員。請參閱[與我們聯絡](https://www.ibm.com/cloud-computing/bluemix/contact-us)頁面。
+* 您可以直接鏈結至 Stack Overflow **#IBMBluemix**，以搜尋或張貼技術問題。
+* 您可以將構想提交至 [IBM Cloud - Structured Ideas](https://ibmcloud.ideas.aha.io/) 網站。
+* 您可以與業務代表聯絡。請參閱[與我們聯絡](https://www.ibm.com/cloud-computing/bluemix/contact-us)頁面。
 * 您可以與 Twitter 上的 [**@IBMBluemixHelp**](http://www.twitter.com/IBMBluemixHelp) 連線，以加強 {{site.data.keyword.Bluemix_notm}} 體驗。
-* 雖然支援小組件是取得支援的偏好方法，但是如果您無法登入 {{site.data.keyword.Bluemix_notm}}，則也可以使用[取得協助](http://www.ibm.biz/bluemixsupport)頁面來提交問題單。
+* 支援小組件是取得支援的偏好方法，但是如果您無法登入 {{site.data.keyword.Bluemix_notm}}，可以使用[取得協助](http://www.ibm.biz/bluemixsupport)頁面來提交問題單。
 
 
 
@@ -56,13 +52,13 @@ lastupdated: "2017-05-23"
 ### 提問
 {: #asking-a-question}
 
-Stack Overflow 及 dW Answers 討論區都提供 {{site.data.keyword.Bluemix_notm}} 問題的多種可搜尋答案。如果您找不到現有答案，請提出新的問題。 
+Stack Overflow（適用於技術問題）及 dW Answers 討論區都提供 {{site.data.keyword.Bluemix_notm}} 問題的多種可搜尋答案。如果您找不到現有答案，請提出新的問題。 
 
   * 前往 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix "外部鏈結圖示"){: new_window}，以提出有關使用 {{site.data.keyword.Bluemix_notm}} 平台和服務來開發應用程式的技術問題。
   * 前往 [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "外部鏈結圖示"){: new_window}，以提出有關 {{site.data.keyword.Bluemix_notm}} 供應項目以及開始使用之指示的問題。
 
 
-完成下列步驟，也可以直接利用支援功能表項目在 Stack Overflow 中提出問題：
+完成下列步驟，也可以直接利用支援功能表項目在 Stack Overflow 中提出技術問題：
   1. 按一下**支援**，然後選取**尋找答案**。 
   2. 在顯示的畫面上，於搜尋欄位中鍵入您的問題，然後按一下搜尋圖示來尋找答案。 
   3. 如果未傳回預期的答案，請按一下**貼文到 Stack Overflow**，來張貼您的問題。
@@ -84,18 +80,41 @@ Stack Overflow 及 dW Answers 討論區都提供 {{site.data.keyword.Bluemix_not
   * 非計劃性的突發事件或運作中斷，{{site.data.keyword.Bluemix_notm}} 團隊一發現就會立即張貼。突發事件通知會定期更新，直到解決為止。
   * 影響各種 {{site.data.keyword.Bluemix_notm}} 服務或該平台的安全性公告的參照。
   * 符合您一般利益的其他平台層面公告。
-  * 您可以訂閱的 RSS 資訊來源。
+  * [您可以訂閱的 RSS 資訊來源](#subscribing-rss-feed)。
 
 您可以選擇下列其中一個選項來尋找「狀態」頁面：
 
   * 登入 {{site.data.keyword.Bluemix_notm}} 主控台。從功能表列中，按一下**支援**，然後選取**狀態**。請檢查針對 ![部分問題](images/some_issues.svg) 圖示列出的資源。此圖示可能指出運作中斷。
-  * 直接在 [IBM {{site.data.keyword.Bluemix_notm}} - 系統狀態 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixstatus "外部鏈結圖示"){: new_window} 進行存取。
+  * 直接在 [IBM {{site.data.keyword.Bluemix_notm}} - 狀態 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://console.bluemix.net/status "外部鏈結圖示"){: new_window} 進行存取。
 
+
+### 監視狀態的最佳作法
+{: #best-practices}
+
+  * 檢查即將到來的維護時間範圍
+
+	利用下列其中一個選項，檢查狀態頁面上張貼的即將到來的維護時間範圍（至少每 24 小時一次）：
+	  * 直接導覽至[狀態![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://console.bluemix.net/status "外部鏈結圖示"){: new_window} 頁面
+	  * 利用 RSS 資訊來源或 RSS 對電子郵件的轉遞程式
+
+  * 檢查現行維護時間範圍或進行中的突發事件
+
+	如果您懷疑 {{site.data.keyword.Bluemix_notm}} 未如預期般運作，請檢查狀態頁面中的現行維護時間範圍或進行中的突發事件。若要提報狀態頁面上尚未列出的突發事件，請按一下功能表列上的**支援**並選取**新增問題單**，或是存取 [IBM Bluemix 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://www.ibm.biz/bluemixsupport "外部鏈結圖示"){: new_window} 說明頁面，來開立「支援問題單」。
+
+  * 充分運用多個 {{site.data.keyword.Bluemix_notm}} 地區
+
+    「{{site.data.keyword.Bluemix_notm}} 公用」的所有使用者都自動可存取 US-SOUTH、EU-GB、EU-DE 及 AU-SYD 地區。{{site.data.keyword.Bluemix_notm}} Global Operations 團隊會管理所有地區，以避免維護造成的影響，並讓發生同時影響所有地區之突發事件的風險降到最低。
+    
+    若要切換地區，請從 {{site.data.keyword.Bluemix_notm}} 功能表列中，展開地區功能表，然後選取另一個地區。
+
+  * 準備進行輕微岔斷
+
+    在大部分情況下，即使是在維護時間範圍的期間內，{{site.data.keyword.Bluemix_notm}} 仍可繼續正常使用。不過，無法完全避免服務的輕微岔斷。即使暫時岔斷 {{site.data.keyword.Bluemix_notm}} 的應用程式管理功能（例如啟動及停止應用程式），執行中應用程式通常仍可持續使用。為了盡量提高執行中應用程式的可用性，針對每一個應用程式請至少執行三個實例。
 
 ### 訂閱 RSS 資訊來源
 {: #subscribing-rss-feed}
 
-您也可以透過訂閱 {{site.data.keyword.Bluemix_notm}}「狀態」頁面的 RSS 資訊來源，來獲得任何通知的警示。這種方式讓您不需要定期查閱狀態頁面即可取得更新。
+您會透過訂閱 {{site.data.keyword.Bluemix_notm}}「狀態」頁面的 RSS 資訊來源，來收到任何通知的警示。這種方式讓您不需要定期查閱狀態頁面即可取得更新。
 
 若要訂閱，請遵循下列步驟：
 
@@ -127,77 +146,76 @@ News 來源（例如下列網站）也提供方法來讀取 RSS 資訊來源：
 {{site.data.keyword.Bluemix_notm}} 每個月通常約有 50 次更新。
 
 
-
 ### 設定突發事件及維護電子郵件通知
 {: #setting-up-notifications}
 
-若為「{{site.data.keyword.Bluemix_notm}} 公用」，您可以註冊平台通知。平台通知是 {{site.data.keyword.Bluemix_notm}} 平台的突發事件及維護事件的選用電子郵件警示。您可以選擇接收這些電子郵件通知，方法是按一下**管理 > 帳戶 > 通知**，然後選取**平台**標籤。如需設定帳戶通知的相關資訊，請前往[設定通知](/docs/admin/account.html#notifications)。
-
-
-### 監視狀態的最佳作法
-{: #best-practices}
-
-  * 檢查即將到來的維護時間範圍
-
-	利用下列其中一個選項，檢查狀態頁面上張貼的即將到來的維護時間範圍（至少每 24 小時一次）：
-	  * 直接導覽至[狀態![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixstatus "外部鏈結圖示"){: new_window} 頁面
-	  * 利用 RSS 資訊來源或 RSS 對電子郵件的轉遞程式
-
-  * 檢查現行維護時間範圍或進行中的突發事件
-
-	如果您懷疑 {{site.data.keyword.Bluemix_notm}} 未如預期般運作，請檢查狀態頁面中的現行維護時間範圍或進行中的突發事件。若要提報狀態頁面上尚未列出的突發事件，請按一下功能表列上的**支援**並選取**新增問題單**，或是存取 [IBM Bluemix 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://www.ibm.biz/bluemixsupport "外部鏈結圖示"){: new_window} 說明頁面，來開立「支援問題單」。
-
-  * 充分運用多個 {{site.data.keyword.Bluemix_notm}} 地區
-
-「{{site.data.keyword.Bluemix_notm}} 公用」的所有使用者都自動可存取 US-SOUTH、EU-GB、EU-DE 及 AU-SYD 地區。{{site.data.keyword.Bluemix_notm}} Global Operations 團隊會管理所有地區，以避免維護造成的影響，並讓發生同時影響所有地區之突發事件的風險降到最低。
-
-若要切換地區，請從 {{site.data.keyword.Bluemix_notm}} 功能表列中，展開**地區**功能表，然後選取您需要其資訊的地區。
-
-  * 準備進行輕微岔斷
-
-    在大部分情況下，即使是在維護時間範圍的期間內，{{site.data.keyword.Bluemix_notm}} 仍可繼續正常使用。不過，無法完全避免服務的輕微岔斷。即使暫時岔斷 {{site.data.keyword.Bluemix_notm}} 的應用程式管理功能（例如啟動及停止應用程式），執行中應用程式通常仍可持續使用。為了盡量提高執行中應用程式的可用性，針對每一個應用程式請至少執行三個實例。
-
+若為「{{site.data.keyword.Bluemix_notm}} 公用」，您可以註冊平台通知。平台通知是 {{site.data.keyword.Bluemix_notm}} 平台的突發事件及維護事件的選用性電子郵件警示。您可以選擇接收這些電子郵件通知，方法是按一下**管理 > 帳戶 > 通知**，然後選取**平台**標籤。如需設定帳戶通知的相關資訊，請前往[設定通知](/docs/admin/account.html#notifications)。
 
 
 ## 與支援中心聯絡
 {: #contacting-support}
 
-如果您具有有效的 {{site.data.keyword.Bluemix_notm}} 帳戶，即可使用各種選項來開立支援問題單。[開立支援問題單](#open-ticket)。 
+如果您具有有效的 {{site.data.keyword.Bluemix_notm}} 帳戶，即可使用各種選項來[開立支援問題單](/docs/support/index.html#open-ticket)。
 
-如果您的 {{site.data.keyword.Bluemix_notm}} 帳戶與 {{site.data.keyword.BluSoftlayer_full}} 帳戶鏈結，則可以從「{{site.data.keyword.BluSoftlayer}} 客戶入口網站」或從 {{site.data.keyword.Bluemix_notm}} 主控台，使用「支援」小組件來開立 {{site.data.keyword.Bluemix_notm}} 的支援問題單。請參閱[開立鏈結帳戶的支援問題單](#open-ticket-linked)。
+如果您的 {{site.data.keyword.Bluemix_notm}} 帳戶與 {{site.data.keyword.BluSoftlayer_full}} 帳戶鏈結，則可以從「{{site.data.keyword.BluSoftlayer}} 客戶入口網站」或從 {{site.data.keyword.Bluemix_notm}} 主控台，使用「支援」小組件來開立 {{site.data.keyword.Bluemix_notm}} 的支援問題單。請參閱[開立鏈結帳戶的支援問題單](/docs/support/index.html#open-ticket-linked)。
 
 ### 聯繫 Bluemix 公用支援中心
 {: #contacting-bluemix-support}
 
-所有 {{site.data.keyword.Bluemix_notm}} 客戶都可以透過 {{site.data.keyword.Bluemix_notm}} 社群或 Stack Overflow 擁有免費技術支援。此外，還會提供不同層次的支援，以符合不同的客戶需求。請參閱下表，以選擇免費、基本、標準和進階支援層次。 
+所有 {{site.data.keyword.Bluemix_notm}} 客戶都可以透過 {{site.data.keyword.Bluemix_notm}} 社群或 Stack Overflow（適用於技術問題）擁有免費技術支援。此外，還會提供不同層次的支援，以符合不同的客戶需求。免費、基本、標準和進階的支援層次各不相同，如下列各節所述。 
 
-層次| 免費|  基本| 標準| 進階
+#### 進階支援
 
---- | --- | --- | --- | --- |
-說明
-| 支援所有 {{site.data.keyword.Bluemix_notm}} 試用客戶。|  支援不需要傳統嚴重性及回應時間的非正式作業環境或工作負載。| 支援有限企業關鍵應用程式數目的環境。「{{site.data.keyword.Bluemix_notm}} 專用」和「{{site.data.keyword.Bluemix_notm}} 本端」客戶接收標準支援。| 支援與 {{site.data.keyword.Bluemix_notm}} 具有策略相依關係的關鍵任務環境。
+針對與 {{site.data.keyword.Bluemix_notm}} 具有策略相依關係的關鍵任務環境提供了進階支援。
 
-嚴重性 1-4 支援|  N/A| N/A| 內含| 內含
-支援語言 | 英文| 英文| 英文、日文| 英文、日文
-指派的客戶成功經理 (CSM) | 不包含| 不包含| 不包含| 內含，<br> 每週 8 小時
+嚴重性支援| 支援語言 | 指派的客戶成功經理 (CSM) 
+--- | --- | --- |
+包含 1-4 嚴重性| 英文、日文|  每週包含 8 小時|
+{: caption="表 1. 進階支援" caption-side="top"}
 
-{: caption="表 1. 支援層次" caption-side="top"}
+
+#### 標準支援
+
+針對具有有限數目的業務關鍵應用程式的環境提供了標準支援。「{{site.data.keyword.Bluemix_notm}} 專用」和「{{site.data.keyword.Bluemix_notm}} 本端」客戶接收標準支援。
+
+嚴重性支援| 支援語言 | 指派的客戶成功經理 (CSM) 
+--- | --- | --- | 
+包含 1-4 嚴重性| 英文、日文| 不包含|
+{: caption="表 2. 標準支援" caption-side="top"}
+
+
+#### 基本支援
+
+針對不需要傳統嚴重性及回應時間的非正式作業環境或工作負載提供了基本支援。
+
+嚴重性支援| 支援語言 | 指派的客戶成功經理 (CSM) 
+--- | --- | --- |
+只支援嚴重性 4| 英文| 不包含| 
+{: caption="表 3. 基本支援" caption-side="top"}
+
+
+#### 試用支援
+
+針對所有 {{site.data.keyword.Bluemix_notm}} 試用客戶提供了試用支援。
+
+嚴重性支援| 支援語言 | 指派的客戶成功經理 (CSM) 
+--- | --- | --- |
+只支援嚴重性 4| 英文| 不包含| 
+{: caption="表 4. 試用支援" caption-side="top"}
 
 **重要事項：**對於嚴重性 2-4 的問題單，在星期一到星期五早上 9 點到下午 5 點 (JST)（國定或法定例假日除外）提供日本語支援。社群及協力廠商服務不包含在內。嚴重性 1 的問題單僅以英文提供。
 
 ### 開立支援問題單
 {: #open-ticket}
 
-如果無法透過疑難排解及說明選項來解決您的技術問題，您可以要求支援。不過，因技術問題而與支援中心聯絡之前，請檢查 [{{site.data.keyword.Bluemix_notm}} 狀態 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixstatus "外部鏈結圖示"){: new_window}，以確定問題不是由於運作中斷而造成。
-
-
+如果無法透過疑難排解及說明選項來解決您的技術問題，請檢查 [{{site.data.keyword.Bluemix_notm}} 狀態 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://console.bluemix.net/status "外部鏈結圖示"){: new_window}，以確定問題不是由於運作中斷而造成。
 
 如果問題不是由於作業中斷而造成，請使用下列其中一個選項來開立支援問題單：
 
   * 從功能表列中，按一下**支援**，然後選取**新增問題單**。在顯示的頁面上，填寫表單，以指出您需要的技術支援類型。
   * 使用 [IBM {{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://www.ibm.biz/bluemixsupport "外部鏈結圖示"){: new_window} 說明頁面。您可以針對銷售、IBM ID 和登入、計費以及技術支援問題來提交問題單。對於技術支援問題，您可以將問題範圍縮小到特定區域或服務。如果您需要有關特定服務的協助，請選取對應的服務種類。若要判斷您服務所屬的種類，請查看功能表列中的「型錄」。  
   
-開立支援問題單時，請務必為問題單指定適當的嚴重性。嚴重性會決定問題單的處理方式。如需不同嚴重性的相關資訊，請參閱[支援問題單嚴重性及回應時間](/docs/support/index.html#support-ticket-severity)。如果您的支援查詢需要更立即的回應，我們建議升級至「標準」或「進階」支援層，您才可以提出嚴重性 1-4 的支援問題單。若要將您的帳戶升級至較高的支援層次，請與 [IBM 業務代表 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.ibm.com/cloud-computing/bluemix/contact-us "外部鏈結圖示"){: new_window} 聯絡，或透過電子郵件 sales@bluemix.net 與我們聯絡。
+開立支援問題單時，請務必為問題單指定適當的嚴重性。嚴重性會決定問題單的處理方式。如需不同嚴重性的相關資訊，請參閱[支援問題單嚴重性及回應時間](/docs/support/index.html#support-ticket-severity)。如果您的支援查詢需要更立即的回應，請考慮升級至「標準」或「進階」支援層，您才可以開立嚴重性 1-4 的支援問題單。若要將您的帳戶升級至較高的支援層次，請與 [IBM 業務代表 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.ibm.com/cloud-computing/bluemix/contact-us "外部鏈結圖示"){: new_window} 聯絡，或寄電子郵件到 sales@bluemix.net。
 
 ### 開立鏈結帳戶的支援問題單
 {: #open-ticket-linked}
@@ -211,8 +229,6 @@ News 來源（例如下列網站）也提供方法來讀取 RSS 資訊來源：
 {: #check-ticket-status}
 
 支援問題單中會記載所有用戶端支援問題。每一張支援問題單都會獲得指派一個唯一的問題單號碼以供參照，以及根據問題單說明中的詳細資料而獲指派的嚴重性層次。您可以使用問題單號碼來檢閱支援問題單進度，以及更新支援問題單。從功能表列中，按一下**支援**，然後選取**檢視問題單**。更新和回應會透過電子郵件傳送給您，並且記錄在問題單注意事項中。  
-
-
 
 
 ### 聯繫 Bluemix 專用支援中心
@@ -260,11 +276,11 @@ News 來源（例如下列網站）也提供方法來讀取 RSS 資訊來源：
 嚴重性| 嚴重性定義| 回應時間目標| 回應時間涵蓋範圍
 
 ------|-------- | --- | --- |
-嚴重性 1| <strong>嚴重業務影響，或服務已關閉。</strong><br> 重要業務功能未作業，或重要介面失敗。此嚴重性通常適用於正式作業環境，指出無法存取服務將嚴重影響作業。必須立即解決此狀況。| <ul><li><strong>免費：</strong>N/A</li><li><strong>基本：</strong>N/A</li><li><strong>標準：</strong>1 小時內</li><li><strong>進階：</strong>1 小時內</li></ul> | <ul><li><strong>免費：</strong>N/A</li><li><strong>基本：</strong>N/A</li><li><strong>標準：</strong>24 小時全年無休</li><li><strong>進階：</strong>24 小時全年無休</li></ul> 			   
-嚴重性 2| <strong>重大業務影響。</strong> <br> 服務特性或功能的使用嚴重受限，或者您快要錯過業務截止時間。| <ul><li><strong>免費：</strong>N/A</li><li><strong>基本：</strong>N/A</li><li><strong>標準：</strong>2 小時內</li><li><strong>進階：</strong>90 分鐘內</li></ul> | <ul><li><strong>免費：</strong>N/A</li><li><strong>基本：</strong>N/A</li><li><strong>標準：</strong>作業時間</li><li><strong>進階：</strong>作業時間</li></ul>
-嚴重性 3| <strong>次要業務影響。</strong> <br> 服務特性或功能仍可使用，但有些問題會影響其使用。未對作業造成重要影響。| <ul><li><strong>免費：</strong>N/A</li><li><strong>基本：</strong>N/A</li><li><strong>標準：</strong>4 小時內</li><li><strong>進階：</strong>2 小時內</li></ul> | <ul><li><strong>免費：</strong>N/A</li><li><strong>基本：</strong>N/A</li><li><strong>標準：</strong>作業時間</li><li><strong>進階：</strong>作業時間</li></ul>
-嚴重性 4| <strong>最小業務影響。</strong> <br> 查詢或非技術要求。| <ul><li><strong>免費：</strong>最大努力</li><li><strong>基本：</strong>最大努力</li><li><strong>標準：</strong>8 小時內</li><li><strong>進階：</strong>4 小時內</li></ul> | <ul><li><strong>免費：</strong>作業時間</li><li><strong>基本：</strong>作業時間</li><li><strong>標準：</strong>作業時間</li><li><strong>進階：</strong>作業時間</li></ul>
-{: caption="表 2. 嚴重性定義及回應時間" caption-side="top"}
+嚴重性 1| <strong>嚴重業務影響，或服務已關閉。</strong><br> 重要業務功能未作業，或重要介面失敗。此嚴重性通常適用於正式作業環境，指出無法存取服務將嚴重影響作業。必須立即解決此狀況。| <ul><li><strong>進階：</strong>1 小時內</li><li><strong>標準：</strong>1 小時內</li><li><strong>基本：</strong>N/A，無法開立嚴重性 1 的問題單</li><li><strong>免費：</strong>N/A，無法開立嚴重性 1 的問題單</li></ul> | <ul><li><strong>進階：</strong>24 小時全年無休</li><li><strong>標準：</strong>24 小時全年無休</li><li><strong>基本：</strong>N/A，無法開立嚴重性 1 的問題單</li><li><strong>免費：</strong>N/A，無法開立嚴重性 1 的問題單</li></ul> 			   
+嚴重性 2| <strong>重大業務影響。</strong> <br> 服務特性或功能的使用嚴重受限，或者您快要錯過業務截止時間。| <ul><li><strong>進階：</strong>90 分鐘內</li><li><strong>標準：</strong>2 小時內</li><li><strong>基本：</strong>N/A，無法開立嚴重性 2 的問題單</li><li><strong>免費：</strong>N/A，無法開立嚴重性 2 的問題單</li></ul> | <ul><li><strong>進階：</strong>作業時間</li><li><strong>標準：</strong>作業時間</li><li><strong>基本：</strong>N/A，無法開立嚴重性 2 的問題單</li><li><strong>免費：</strong>N/A，無法開立嚴重性 2 的問題單</li></ul>
+嚴重性 3| <strong>次要業務影響。</strong> <br> 服務特性或功能仍可使用，但有些問題會影響其使用。未對作業造成重要影響。| <ul><li><strong>進階：</strong>2 小時內</li><li><strong>標準：</strong>4 小時內</li><li><strong>基本：</strong>N/A，無法開立嚴重性 3 的問題單</li><li><strong>免費：</strong>N/A，無法開立嚴重性 3 的問題單</li></ul> | <ul><li><strong>進階：</strong>作業時間</li><li><strong>標準：</strong>作業時間</li><li><strong>基本：</strong>N/A，無法開立嚴重性 3 的問題單</li><li><strong>免費：</strong>N/A，無法開立嚴重性 3 的問題單</li></ul>
+嚴重性 4| <strong>最小業務影響。</strong> <br> 查詢或非技術要求。| <ul><li><strong>進階：</strong>4 小時內</li><li><strong>標準：</strong>8 小時內</li><li><strong>基本：</strong>最大努力</li><li><strong>免費：</strong>最大努力</li></ul> | <ul><li><strong>進階：</strong>作業時間</li><li><strong>標準：</strong>作業時間</li><li><strong>基本：</strong>作業時間</li><li><strong>免費：</strong>作業時間</li></ul>
+{: caption="表 5. 嚴重性定義及回應時間" caption-side="top"}
 
 
 ### 如何支援不同的服務
@@ -274,7 +290,7 @@ News 來源（例如下列網站）也提供方法來讀取 RSS 資訊來源：
 * IBM 測試版服務或容器映像檔<br>
 IBM 將發行分類為測試版的服務或容器映像檔。測試版可協助 IBM 開發及行銷團隊評量服務在市場中的價值。因此，他們可以在可能將它發行為正式發行服務或容器映像檔之前進行調整。如果主要原因分析判定問題是 IBM 測試版服務或容器映像檔中的錯誤，則 IBM 不負責提供修正程式。此外，會視情況將嚴重性 3 或 4 指派給此問題單。 
 * IBM 實驗性服務或容器映像檔<br>
-IBM 將發行分類為實驗性的服務或容器映像檔。這些服務可能不穩定、經常變更，並且可能會在短時間內停止使用。對於分類為實驗性的服務，您只能透過 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix "外部鏈結圖示"){: new_window} 及 [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "外部鏈結圖示"){: new_window} 取得社群協助。
+IBM 將發行分類為實驗性的服務或容器映像檔。這些服務可能不穩定、經常變更，並且可能會在短時間內停止使用。對於分類為實驗性的服務，您只能透過 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix "外部鏈結圖示"){: new_window} 及 [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "外部鏈結圖示"){: new_window} 取得技術問題的社群協助。
 * 協力廠商服務<br>
 協力廠商服務是由 IBM 外部的供應商所提供。這些服務是由個別軟體實體、合作夥伴或獨立軟體供應商 (ISV) 所提供。如果主要原因分析判定問題是協力廠商服務中的錯誤，則 IBM 不負責提供修正程式。不過，IBM 將透過 Marketplace 與協力廠商服務及我們的用戶端一起合作，來協助解決問題。 
 * 開放程式碼或社群服務<br>
@@ -287,7 +303,7 @@ IBM 將發行分類為實驗性的服務或容器映像檔。這些服務可能�
 如果您相信會發生潛在的安全漏洞，請開立支援問題單，以向 Bluemix 報告。 
 
 若要報告潛在的安全漏洞，請完成下列步驟：
-  1. 開立嚴重性 1 問題單，或具有您的支援中心允許的最高嚴重性層次問題單。如需如何開立問題單的相關資訊，請參閱[開立支援問題單 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](#open-ticket "外部鏈結圖示"){: new_window}。 
+  1. 開立嚴重性 1 問題單，或具有您的支援中心允許的最高嚴重性層次問題單。如需如何開立問題單的相關資訊，請參閱[開立支援問題單](/docs/support/index.html#open-ticket)。 
   2. 在問題單摘要中，清楚說明問題單是有關潛在的安全漏洞。
   2. 包括下列其中一個項目，以提供潛在安全漏洞的詳細資料：
        * 可以聯絡到您一起討論問題的電話號碼。
@@ -335,8 +351,13 @@ Script 使用 cf 指令行介面來擷取應用程式環境的下列資訊：
   * 事件
   * 佈建的服務
 
+## Bluemix 支援中心的滿意度意見調查  
+{: #survey}
 
-## Bluemix 的國家語言支援
+IBM 會定期將意見調查傳送給 {{site.data.keyword.Bluemix_notm}} 客戶，以取得他們對最近客戶支援中心體驗的意見。意見調查著重在支援品質和整體體驗。IBM 管理會檢閱意見調查結果，來改善支援體驗。 
+
+
+#### Bluemix 的國家語言支援
 {: #lang}
 
 {{site.data.keyword.Bluemix_notm}} 支援英文以外的國家語言。不過，{{site.data.keyword.Bluemix_notm}} 隨附的所有內容並未全部翻譯。下表列出 {{site.data.keyword.Bluemix_notm}} 支援的國家語言及語言碼。
@@ -354,22 +375,3 @@ Script 使用 cf 指令行介面來擷取應用程式環境的下列資訊：
 | 簡體中文| zh_CN|
 | 繁體中文| zh_TW|
 {: caption="表 3. 支援的國家語言及語言碼" caption-side="top"}
-
-
-
-## Bluemix 支援中心的滿意度意見調查  
-{: #survey}
-
-IBM 會定期將意見調查傳送給 {{site.data.keyword.Bluemix_notm}} 客戶，以取得他們對最近客戶支援中心體驗的意見。意見調查著重在支援品質和整體體驗。IBM 管理會檢閱意見調查結果，來改善支援體驗。 
-
-
-# rellinks
-{: #rellinks}
-
-## general
-{: #general}
-
-  * [Bluemix 支援入口網站 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://support.ibmcloud.com "外部鏈結圖示"){: new_window}
-  * [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "外部鏈結圖示"){: new_window}
-  * [安裝 cf 指令工具](/docs/starters/install_cli.html)
-  * [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix "外部鏈結圖示"){: new_window}
