@@ -160,7 +160,7 @@ Para {{site.data.keyword.Bluemix_notm}} público, puede registrarse para las not
 ## Cómo obtener soporte
 {: #contacting-support}
 
-Puede [abrir incidencias de soporte](/docs/support/index.html#open-ticket) si tiene una cuenta válida de {{site.data.keyword.Bluemix_notm}} utilizando varias opciones. 
+Puede [abrir incidencias de soporte](/docs/support/index.html#open-ticket) si tiene una cuenta válida de {{site.data.keyword.Bluemix_notm}} utilizando varias opciones.
 
 Si tiene una cuenta de {{site.data.keyword.Bluemix_notm}} enlazada con una cuenta de {{site.data.keyword.BluSoftlayer_full}}, puede abrir incidencias de soporte de {{site.data.keyword.Bluemix_notm}} desde el portal de cliente de {{site.data.keyword.BluSoftlayer}} o desde la consola de {{site.data.keyword.Bluemix_notm}} mediante el widget Soporte. Consulte [Apertura de una incidencia de soporte para cuentas enlazadas](/docs/support/index.html#open-ticket-linked).
 
@@ -201,7 +201,7 @@ Solo se da soporte a gravedad 4 | Inglés | No se incluye |
 
 #### Soporte de prueba
 
-El soporte de prueba se proporciona para todos los clientes de prueba de {{site.data.keyword.Bluemix_notm}}.  
+El soporte de prueba se proporciona para todos los clientes de prueba de {{site.data.keyword.Bluemix_notm}}.
 
 Soporte de gravedad | Idioma de soporte | CSM (Client Success Manager) asignado 	
 --- | --- | --- |
@@ -366,7 +366,7 @@ Los scripts utilizan la interfaz de línea de mandatos cf para extraer la siguie
 IBM envía periódicamente encuestas a clientes de {{site.data.keyword.Bluemix_notm}} para obtener sus comentarios sobre experiencias recientes con el soporte de cliente. La encuesta se centra en la calidad de soporte y la experiencia global. La gestión de IBM revisa los resultados de la encuesta para mejorar la experiencia de soporte. 
 
 
-#### Soporte de idioma nacional para Bluemix
+## Soporte de idioma nacional para Bluemix
 {: #lang}
 
 {{site.data.keyword.Bluemix_notm}} da soporte a idiomas nacionales que no sean el inglés. Sin embargo, no todo el contenido que se suministra

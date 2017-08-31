@@ -56,8 +56,8 @@ lastupdated: "2017-08-28"
 スタック・オーバーフロー (技術的な質問の場合) および dW Answers のフォーラムはどちらも、{{site.data.keyword.Bluemix_notm}} の質問に対するさまざまな検索可能な答えを提供します。既存の答えが見つからない場合は、新
 規に質問します。 
 
-  * {{site.data.keyword.Bluemix_notm}} プラットフォームおよびサービスを使用してアプリの開発に関する技術的な質問をするには、[Stack Overflow ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix "「外部リンク」アイコン"){: new_window} にアクセスしてください。
-  * {{site.data.keyword.Bluemix_notm}} オファリングおよび開始手順に関する質問をするには、[dW Answers ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "「外部リンク」アイコン"){: new_window} にアクセスしてください。
+  * {{site.data.keyword.Bluemix_notm}} プラットフォームおよびサービスを使用してアプリの開発に関する技術的な質問をするには、[Stack Overflow ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} にアクセスしてください。
+  * {{site.data.keyword.Bluemix_notm}} オファリングおよび開始手順に関する質問をするには、[dW Answers ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} にアクセスしてください。
 
 
 以下の手順を実行することで、サポート・メニュー項目から直接スタック・オーバーフローで技術的な質問をすることもできます。
@@ -97,7 +97,7 @@ Overflow への投稿 (POST TO STACK OVERFLOW)」**をクリックし
 「状況」ページは、以下のいずれかのオプションによって表示できます。
 
   * {{site.data.keyword.Bluemix_notm}} コンソールにログインします。メニュー・バーで**「サポート」**をクリックして、**「状況」**を選択します。リストされたリソースについて ![問題](images/some_issues.svg) アイコンがないか確認してください。このアイコンは、障害を示す可能性があります。
-  * [IBM {{site.data.keyword.Bluemix_notm}} - 状況 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://console.bluemix.net/status "「外部リンク」アイコン"){: new_window} で直接アクセスします。
+  * [IBM {{site.data.keyword.Bluemix_notm}} - 状況 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://console.bluemix.net/status){: new_window} で直接アクセスします。
 
 
 ### 状況をモニターするためのベスト・プラクティス
@@ -107,14 +107,14 @@ Overflow への投稿 (POST TO STACK OVERFLOW)」**をクリックし
 
 	状況ページに掲示された近く予定されているメンテナンス時間帯を、24 時間ごとに少なくとも一度は確認します。
 これには、以下のいずれかのオプションを使用します。
-	  * [「状況」![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://console.bluemix.net/status "「外部リンク」アイコン"){: new_window} ページに直接ナビゲートします。
+	  * [「状況」![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://console.bluemix.net/status){: new_window} ページに直接ナビゲートします。
 	  * RSS フィードまたは RSS から E メールへの転送機能を使用します。
 
   * 現在のメンテナンス時間帯や進行中の問題を確認する
 
 	{{site.data.keyword.Bluemix_notm}} が期待どおりに動作していないと疑われる場合、
 状況ページで現在のメンテナンス時間帯や進行中の問題を確認します。
-状況ページにまだリストされていないインシデントを報告するには、**「サポート」**をクリックしてメニュー・バーで**「チケットの追加」**を選択するか、[IBM Bluemix サポート ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.ibm.biz/bluemixsupport "「外部リンク」アイコン"){: new_window} ヘルプ・ページにアクセスして、サポート・チケットをオープンします。
+状況ページにまだリストされていないインシデントを報告するには、**「サポート」**をクリックしてメニュー・バーで**「チケットの追加」**を選択するか、[IBM Bluemix サポート ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.ibm.biz/bluemixsupport){: new_window} ヘルプ・ページにアクセスして、サポート・チケットをオープンします。
 
   * 複数の {{site.data.keyword.Bluemix_notm}} 地域を利用する
 
@@ -149,12 +149,12 @@ Overflow への投稿 (POST TO STACK OVERFLOW)」**をクリックし
  	   
 
 RSS フィードを読むには、他に、以下のような Web ブラウザー・プラグインを使用する方法があります。 
-  * Chrome の [RSS フィード ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://feeder.co/ "「外部リンク」アイコン"){: new_window} リーダー
-  * Firefox の [Brief ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://addons.mozilla.org/en-US/firefox/addon/brief/ "「外部リンク」アイコン"){: new_window} アドオン
+  * Chrome の [RSS フィード ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://feeder.co/){: new_window} リーダー
+  * Firefox の [Brief ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://addons.mozilla.org/en-US/firefox/addon/brief/){: new_window} アドオン
 
 以下のサイトなどのニュース・ソースでも、RSS フィードを読む方法が提供されています。
-  * [Feedly ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.feedly.com/ "「外部リンク」アイコン"){: new_window}
-  * [G2reader ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.g2reader.com/en/ "「外部リンク」アイコン"){: new_window}
+  * [Feedly ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.feedly.com/){: new_window}
+  * [G2reader ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.g2reader.com/en/){: new_window}
 
 また、サード・パーティー・サービスを使用して、RSS の更新ごとに E メールを自動送信することも可能です。
 サード・パーティー・サービスの例を以下にいくつか示します。
@@ -232,14 +232,14 @@ RSS フィードを読むには、他に、以下のような Web ブラウザ�
 ### サポート・チケットのオープン
 {: #open-ticket}
 
-トラブルシューティングおよびヘルプのオプションを使用しても技術的な問題を解決できない場合は、[{{site.data.keyword.Bluemix_notm}} 状況 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://console.bluemix.net/status "「外部リンク」アイコン"){: new_window} を調べて、問題が障害によるものではないことを確認してください。
+トラブルシューティングおよびヘルプのオプションを使用しても技術的な問題を解決できない場合は、[{{site.data.keyword.Bluemix_notm}} 状況 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://console.bluemix.net/status){: new_window} を調べて、問題が障害によるものではないことを確認してください。
 
 問題が障害によるものではない場合は、以下のいずれかのオプションを使用してサポート・チケットをオープンします。
 
   * メニュー・バーで**「サポート」**をクリックして、**「チケットの追加」**を選択します。表示されるページのフォームに、必要な技術サポートのタイプを入力します。
-  * [IBM {{site.data.keyword.Bluemix_notm}} サポート ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.ibm.biz/bluemixsupport "「外部リンク」アイコン"){: new_window} のヘルプ・ページを使用します。販売、IBM ID とログイン、請求、および技術サポートの問題についてチケットを送信できます。技術サポートの問題では、問題を特定の領域やサービスに絞り込むことができます。特定サービスに関する支援が必要な場合は、該当するサービス・カテゴリーを選択してください。サービスが属するカテゴリーを判別するには、メニュー・バーの「カタログ」を確認してください。  
+  * [IBM {{site.data.keyword.Bluemix_notm}} サポート ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.ibm.biz/bluemixsupport){: new_window} のヘルプ・ページを使用します。販売、IBM ID とログイン、請求、および技術サポートの問題についてチケットを送信できます。技術サポートの問題では、問題を特定の領域やサービスに絞り込むことができます。特定サービスに関する支援が必要な場合は、該当するサービス・カテゴリーを選択してください。サービスが属するカテゴリーを判別するには、メニュー・バーの「カタログ」を確認してください。  
   
-サポート・チケットをオープンするときは、チケットの適切な重大度を必ず指定してください。重大度によってチケットの処理方法が決まります。各種の重大度については、『[サポート・チケットの重大度および回答時間](/docs/support/index.html#support-ticket-severity)』を参照してください。サポートの問い合わせに対して直ちに応答が必要な場合は、重大度 1 から 4 のサポート・チケットをオープンできるように「標準」または「プレミアム」のサポート層にアップグレードすることを検討してください。アカウントをアップグレードしてサポート・レベルを上げるには、[IBM 営業担当員 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us "「外部リンク」アイコン"){: new_window} に連絡するか、sales@bluemix.net に E メールを送信してください。
+サポート・チケットをオープンするときは、チケットの適切な重大度を必ず指定してください。重大度によってチケットの処理方法が決まります。各種の重大度については、『[サポート・チケットの重大度および回答時間](/docs/support/index.html#support-ticket-severity)』を参照してください。サポートの問い合わせに対して直ちに応答が必要な場合は、重大度 1 から 4 のサポート・チケットをオープンできるように「標準」または「プレミアム」のサポート層にアップグレードすることを検討してください。アカウントをアップグレードしてサポート・レベルを上げるには、[IBM 営業担当員 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} に連絡するか、sales@bluemix.net に E メールを送信してください。
 
 ### リンクされたアカウントのサポート・チケットのオープン
 {: #open-ticket-linked}
@@ -264,7 +264,7 @@ RSS フィードを読むには、他に、以下のような Web ブラウザ�
 
 <ul>
 <li><a href="http://www.ibm.biz/bluemixsupport" target="_blank">IBM {{site.data.keyword.Bluemix_notm}} サポート</a>のヘルプ・ページを使用して新しいチケットをオープンすることで、サポートに連絡します。このフォームには、E メール・アドレスまたはご使用の {{site.data.keyword.ibmid}} を使用できます。「地域」フィールドに「**{{site.data.keyword.Bluemix_notm}} Dedicated**」オプションを選択します。
-<p>フォームの送信は、日曜日 21:30 (協定世界時) から金曜日 23:59 (協定世界時) までモニターされます。このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.timeanddate.com "「外部リンク」アイコン") を参照してください。</p>
+<p>フォームの送信は、日曜日 21:30 (協定世界時) から金曜日 23:59 (協定世界時) までモニターされます。このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.timeanddate.com) を参照してください。</p>
 </li>
 <li>{{site.data.keyword.ibmid}} をお持ちで、{{site.data.keyword.Bluemix_notm}} Public 環境にアクセスできる場合は、メニュー・バーで**「サポート」**をクリックして、**「チケットの追加」**を選択します。問題に合ったトピック領域を選択し、プロンプトに従ってチケットを送信します。</li>
 <li>{{site.data.keyword.ibmid}} をお持ちでない場合は、IBM ID を持っている組織内のユーザーに相談するか、IBM 担当員にご連絡ください。
@@ -280,7 +280,7 @@ RSS フィードを読むには、他に、以下のような Web ブラウザ�
 
 <ul>
 <li><a href="http://www.ibm.biz/bluemixsupport" target="_blank">IBM {{site.data.keyword.Bluemix_notm}} サポート <img src="../icons/launch-glyph.svg" alt="「外部リンク」アイコン"></a> のヘルプ・ページを使用して新しいチケットをオープンすることで、サポートに連絡します。このフォームには、E メール・アドレスまたはご使用の {{site.data.keyword.ibmid}} を使用できます。「地域」フィールドに「**{{site.data.keyword.Bluemix_notm}} Local**」オプションを選択します。
-<p>フォームの送信は、日曜日 21:30 (協定世界時) から金曜日 23:59 (協定世界時) までモニターされます。このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.timeanddate.com "「外部リンク」アイコン") を参照してください。</p>
+<p>フォームの送信は、日曜日 21:30 (協定世界時) から金曜日 23:59 (協定世界時) までモニターされます。このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.timeanddate.com) を参照してください。</p>
 </li>
 <li>{{site.data.keyword.ibmid}} をお持ちで、{{site.data.keyword.Bluemix_notm}} Public 環境にアクセスできる場合は、メニュー・バーで**「サポート」**をクリックして、**「チケットの追加」**を選択します。問題に合ったトピック領域を選択し、プロンプトに従ってチケットを送信します。</li>
 <li>{{site.data.keyword.ibmid}} をお持ちでない場合は、IBM ID を持っている組織内のユーザーに相談するか、IBM 担当員にご連絡ください。
@@ -294,7 +294,7 @@ RSS フィードを読むには、他に、以下のような Web ブラウザ�
 
 以下の表に、サポート案件、推奨される重大度レベル、および回答時間の目標についての一般的な例をいくつか示します。回答時間の目標は、IBM の目標を記述しているだけであり、実施の保証を示すものではありません。
 
-**営業時間:** 日曜日 21:30 (協定世界時) から金曜日 23:59 (協定世界時) まで (米国/イタリア/オーストラリアの休日を除く)。このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.timeanddate.com "「外部リンク」アイコン") を参照してください。休日のスケジュールについて詳しくは、[Bluemix Support Holidays ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://ibm.biz/bluemixholidays "「外部リンク」アイコン") を参照してください。 
+**営業時間:** 日曜日 21:30 (協定世界時) から金曜日 23:59 (協定世界時) まで (米国/イタリア/オーストラリアの休日を除く)。このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.timeanddate.com) を参照してください。休日のスケジュールについて詳しくは、[Bluemix Support Holidays ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://ibm.biz/bluemixholidays) を参照してください。 
 
 
 重大度| 重大度の定義| 回答時間の目標| 対象応答時間
@@ -314,7 +314,7 @@ RSS フィードを読むには、他に、以下のような Web ブラウザ�
 * IBM のベータ版サービスまたはコンテナーのイメージ<br>
 IBM は、ベータ版と分類されるサービスまたはコンテナーのイメージをリリースします。ベータ版リリースは、IBM 開発チームおよびマーケティング・チームが市場でのサービスの価値を評価するのに役立ちます。その結果、サービスまたはコンテナーのイメージを一般出荷可能としてリリースする前に調整することが可能になります。根本原因分析で、問題は IBM ベータ版サービスまたはコンテナーのイメージにある欠陥であると判定された場合、IBM にはフィックスを提供する義務はありません。さらに、チケットには重大度 3 または 4 が適宜割り当てられます。 
 * IBM の試験的サービスまたはコンテナーのイメージ<br>
-IBM は、試験的と分類されるサービスまたはコンテナーのイメージをリリースします。こうしたサービスは、不安定だったり、頻繁に変更されたり、十分な通知期間を設けずに中断されたりすることがあります。試験的と分類されているサービスに関しては、技術的な問題については[スタック・オーバーフロー ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix "「外部リンク」アイコン"){: new_window}、その他の問題については [dW Answers ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html "「外部リンク」アイコン"){: new_window} を通じてコミュニティー支援を受けることができます。
+IBM は、試験的と分類されるサービスまたはコンテナーのイメージをリリースします。こうしたサービスは、不安定だったり、頻繁に変更されたり、十分な通知期間を設けずに中断されたりすることがあります。試験的と分類されているサービスに関しては、技術的な問題については[スタック・オーバーフロー ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}、その他の問題については [dW Answers ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} を通じてコミュニティー支援を受けることができます。
 * サード・パーティー・サービス<br>
 サード・パーティー・サービスは、IBM 外部のベンダーによって提供されます。こうしたサービスは、個々のソフトウェア・エンティティー、パートナー、または独立系ソフトウェア・ベンダー (ISV) によって提供されます。根本原因分析で、問題はサード・パーティー・サービスの欠陥であると判定された場合、IBM にはフィックスを提供する義務はありません。ただし、IBM はサード・パーティー・サービスおよびクライアントと共に当社のマーケットプレイスを処理して問題の解決に努めます。 
 * オープン・ソースまたはコミュニティーのサービス<br>
@@ -360,12 +360,12 @@ Standard または Premium のサポートを使用しており、サポート�
 
   2. `cf api` コマンドを使用して、{{site.data.keyword.Bluemix_notm}} が実行中の場所に cf コマンド・ライン・インターフェースを接続済みであることを確認してください。
 
-  3. [{{site.data.keyword.Bluemix_notm}} の前提条件 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://developer.ibm.com/bluemix/support/#prereqs "「外部リンク」アイコン"){: new_window} に記載されたすべての前提条件を満たしていることを確認してください。
+  3. [{{site.data.keyword.Bluemix_notm}} の前提条件 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://developer.ibm.com/bluemix/support/#prereqs){: new_window} に記載されたすべての前提条件を満たしていることを確認してください。
 
 診断情報を収集するには、以下のスクリプトを使用してください。
 
-  * Windows オペレーティング・システムの場合、[bmdiag-general.bat ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat "「外部リンク」アイコン"){: new_window} ファイルをダウンロードして実行します。
-  * Linux および Mac オペレーティング・システムの場合、[bmdiag-general.sh ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh "「外部リンク」アイコン"){: new_window} ファイルをダウンロードして実行します。
+  * Windows オペレーティング・システムの場合、[bmdiag-general.bat ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} ファイルをダウンロードして実行します。
+  * Linux および Mac オペレーティング・システムの場合、[bmdiag-general.sh ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} ファイルをダウンロードして実行します。
 
 これらのスクリプトは cf コマンド・ライン・インターフェースを使用して、ご使用のアプリケーション環境から以下の情報を抽出します。
 
@@ -381,7 +381,7 @@ Standard または Premium のサポートを使用しており、サポート�
 IBM は、お客様サポートでの最近の体験に関するフィードバックを入手するために、{{site.data.keyword.Bluemix_notm}} のお客様に定期的にサーベイを送信します。サーベイは、サポートの品質と全体的なエクスペリエンスに重点を置いています。IBM マネジメントでは、サーベイの結果を検討し、サポート状況の改善に努めます。 
 
 
-#### Bluemix の各国語サポート
+## Bluemix の各国語サポート
 {: #lang}
 
 {{site.data.keyword.Bluemix_notm}} は、英語以外の各国語をサポートします。ただし、{{site.data.keyword.Bluemix_notm}} で提供されるすべてのコンテンツが翻訳されるわけではありません。次の表は、{{site.data.keyword.Bluemix_notm}} でサポートされる各国語と言語コードをリストしています。

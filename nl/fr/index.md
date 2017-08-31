@@ -162,7 +162,7 @@ Si vous disposez d'un compte {{site.data.keyword.Bluemix_notm}} qui est lié à 
 ### Contacter le support pour l'environnement Bluemix public
 {: #contacting-bluemix-support}
 
-Tous les clients de {{site.data.keyword.Bluemix_notm}} bénéficient d'un support technique gratuit via la communauté {{site.data.keyword.Bluemix_notm}} ou du forum Stack Overflow (dans le cas de problèmes techniques). Par ailleurs, divers niveaux de service sont disponibles pour répondre aux besoins différents des clients. Les niveaux de support varient selon qu'il s'agit d'un compte gratuit, de base, standard ou premium, comme décrit dans les sections suivantes. 
+Tous les clients de {{site.data.keyword.Bluemix_notm}} bénéficient d'un support technique gratuit via la communauté {{site.data.keyword.Bluemix_notm}} ou du forum Stack Overflow (dans le cas de problèmes techniques).  Par ailleurs, divers niveaux de service sont disponibles pour répondre aux besoins différents des clients. Les niveaux de support varient selon qu'il s'agit d'un compte gratuit, de base, standard ou premium, comme décrit dans les sections suivantes. 
 
 #### Support Premium
 
@@ -356,7 +356,7 @@ Les scripts utilisent l'interface de ligne de commande cf pour extraire les info
 IBM envoie périodiquement des sondages aux clients {{site.data.keyword.Bluemix_notm}} pour solliciter leurs commentaires sur leurs récentes expériences avec le support client. L'enquête se concentre sur la qualité du support et leur expérience globale. La direction d'IBM étudie les résultats de l'enquête pour améliorer leur expérience avec le support. 
 
 
-#### Support de langue nationale pour Bluemix
+## Support de langue nationale pour Bluemix
 {: #lang}
 
 {{site.data.keyword.Bluemix_notm}} prend en charge des langues autres que l'anglais. Cependant, le contenu fourni avec {{site.data.keyword.Bluemix_notm}} n'est pas entièrement traduit.
