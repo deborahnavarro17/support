@@ -79,7 +79,7 @@ En la página Estado hay disponible la información siguiente:
 
   * El estado actual de los servicios y los componentes de todas las regiones de {{site.data.keyword.Bluemix_notm}}.
   * Una lista de anuncios, en orden cronológico, sobre mantenimiento e incidencias. Puede filtrar la lista o abrir un anuncio concreto para obtener más información.
-  * Ventanas de mantenimiento planificadas, que se publican al menos con 24 horas de antelación, excepto en circunstancias extremas.
+  * Períodos de mantenimiento planificados, que se publican al menos con 24 horas de antelación, excepto en circunstancias extremas.
   * Incidencias o paradas no planificadas, que se publican en cuanto las conoce el equipo de {{site.data.keyword.Bluemix_notm}}. Las notificaciones de incidencias se actualizan con regularidad hasta que quedan resueltas.
   * Referencias a boletines de seguridad que afectan a diversos servicios de {{site.data.keyword.Bluemix_notm}} o la plataforma.
   * Otros anuncios sobre la plataforma en general que puedan ser de su interés.
@@ -94,15 +94,15 @@ Para ver la página Estado, seleccione una de las dos opciones siguientes:
 ### Prácticas recomendadas para supervisar el estado
 {: #best-practices}
 
-  * Comprobar las próximas ventanas de mantenimiento
+  * Comprobar los próximos períodos de mantenimiento
 
-	Compruebe las próximas ventanas de mantenimiento publicadas en la página de estado al menos una vez cada 24 horas, mediante una de las opciones siguientes:
+	Compruebe los próximos períodos de mantenimiento publicados en la página de estado al menos una vez cada 24 horas, mediante una de las opciones siguientes:
 	  * Navegando directamente a la página [Estado ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://console.bluemix.net/status){: new_window}
 	  * Usando el hilo de RSS o un reenviador de RSS a correo electrónico
 
-  * Comprobar las ventanas de mantenimiento actuales o una incidencia en curso
+  * Comprobar los períodos de mantenimiento actuales o una incidencia en curso
 
-	Si cree que {{site.data.keyword.Bluemix_notm}} no funciona según lo previsto, compruebe la página de estado de las ventanas actuales de mantenimiento y las incidencias en curso. Para informar de una incidencia que no aparece en la página de estado, abra una incidencia de soporte a través del elemento de menú **Soporte** y seleccione **Añadir incidencia** en la barra de menús o acceda la página de ayuda del [Soporte de IBM Bluemix ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://www.ibm.biz/bluemixsupport){: new_window}.
+	Si cree que {{site.data.keyword.Bluemix_notm}} no funciona según lo previsto, compruebe la página de estado de los períodos actuales de mantenimiento y las incidencias en curso. Para informar de una incidencia que no aparece en la página de estado, abra una incidencia de soporte a través del elemento de menú **Soporte** y seleccione **Añadir incidencia** en la barra de menús o acceda la página de ayuda del [Soporte de IBM Bluemix ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://www.ibm.biz/bluemixsupport){: new_window}.
 
   * Aprovechar las diversas regiones de {{site.data.keyword.Bluemix_notm}}
 
@@ -112,7 +112,7 @@ Para ver la página Estado, seleccione una de las dos opciones siguientes:
 
   * Preparar para interrupciones menores
 
-    En la mayoría de los casos, se puede seguir utilizando {{site.data.keyword.Bluemix_notm}} con normalidad, incluso durante las ventanas de mantenimiento. Sin embargo, no siempre se pueden evitar las interrupciones menores del servicio. La ejecución de apps suele seguir disponible aunque se interrumpan temporalmente las funciones de gestión de apps de {{site.data.keyword.Bluemix_notm}}, como iniciar y detener apps. Para maximizar la disponibilidad de las apps en ejecución, ejecute al menos tres instancias de cada app.
+    En la mayoría de los casos, se puede seguir utilizando {{site.data.keyword.Bluemix_notm}} con normalidad, incluso durante los períodos de mantenimiento. Sin embargo, no siempre se pueden evitar las interrupciones menores del servicio. La ejecución de apps suele seguir disponible aunque se interrumpan temporalmente las funciones de gestión de apps de {{site.data.keyword.Bluemix_notm}}, como iniciar y detener apps. Para maximizar la disponibilidad de las apps en ejecución, ejecute al menos tres instancias de cada app.
 
 ### Suscripción a un hilo RSS
 {: #subscribing-rss-feed}

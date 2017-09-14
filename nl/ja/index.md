@@ -297,8 +297,7 @@ RSS フィードを読むには、他に、以下のような Web ブラウザ�
 **営業時間:** 日曜日 21:30 (協定世界時) から金曜日 23:59 (協定世界時) まで (米国/イタリア/オーストラリアの休日を除く)。このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.timeanddate.com) を参照してください。休日のスケジュールについて詳しくは、[Bluemix Support Holidays ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://ibm.biz/bluemixholidays) を参照してください。 
 
 
-重大度| 重大度の定義| 回答時間の目標| 対象応答時間
-
+重大度| 重大度の定義| 回答時間の目標| 対象応答時間 
 ------|-------- | --- | --- |
 重大度 1| <strong>重大な事業影響またはサービスの停止。</strong> <br> ビジネスの重大な機能が実行できない、または重要なインターフェースが機能しない。この重大度は通常、実稼働環境に適用され、サービスにアクセスできないことによって運用に重大な影響が生じることを示します。この状態は、即時に解決策が必要です。| <ul><li><strong>Premium:</strong> 1 時間以内</li><li><strong>Standard:</strong> 1 時間以内</li><li><strong>Basic:</strong> N/A、重大度 1 チケットをオープンできない</li><li><strong>Free:</strong> N/A、重大度 1 チケットをオープンできない</li></ul> | <ul><li><strong>Premium:</strong> 24 時間 365 日</li><li><strong>Standard:</strong> 24 時間 365 日</li><li><strong>Basic:</strong> N/A、重大度 1 チケットをオープンできない</li><li><strong>Free:</strong> N/A、重大度 1 チケットをオープンできない</li></ul> 			   
 重大度 2| <strong>著しい事業影響。</strong> <br> サービス機能の使用が著しく制限されるか、ビジネスの最終期限に間に合わない危険がある。| <ul><li><strong>Premium:</strong> 90 分以内</li><li><strong>Standard:</strong> 2 時間以内</li><li><strong>Basic:</strong> N/A、重大度 2 チケットをオープンできない</li><li><strong>Free:</strong> N/A、重大度 2 チケットをオープンできない</li></ul> | <ul><li><strong>Premium:</strong> 営業時間</li><li><strong>Standard:</strong> 営業時間</li><li><strong>Basic:</strong> N/A、重大度 2 チケットをオープンできない</li><li><strong>Free:</strong> N/A、重大度 2 チケットをオープンできない</li></ul>
