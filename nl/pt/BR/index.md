@@ -239,8 +239,8 @@ Todos os problemas de suporte a clientes são documentados em um chamado de supo
 Se você for um cliente do {{site.data.keyword.Bluemix_notm}} Dedicated, o suporte será fornecido pela equipe de Suporte do IBM {{site.data.keyword.Bluemix_notm}}. É possível escolher entre algumas opções diferentes para obter suporte, dependendo se você tiver um {{site.data.keyword.ibmid}}.
 
 <ul>
-<li>Entre em contato com o suporte abrindo um novo chamado usando a página de ajuda do
-<a href="http://www.ibm.biz/bluemixsupport" target="_blank">Suporte do IBM {{site.data.keyword.Bluemix_notm}}</a>. É possível usar um endereço de e-mail ou seu {{site.data.keyword.ibmid}} para esse formulário. Selecione a opção **{{site.data.keyword.Bluemix_notm}} Dedicated** para o campo Região.
+<li>Entre em contato com o suporte abrindo um novo chamado usando a
+página de ajuda do <a href="http://www.ibm.biz/bluemixsupport" target="_blank">Suporte do IBM {{site.data.keyword.Bluemix_notm}}</a>. É possível usar um endereço de e-mail ou seu {{site.data.keyword.ibmid}} para esse formulário. Selecione a opção **{{site.data.keyword.Bluemix_notm}} Dedicated** para o campo Região.
 <p>Os envios de formulário são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC. Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com).</p>
 </li>
 <li>Se você tiver um {{site.data.keyword.ibmid}} e tiver acesso ao ambiente do {{site.data.keyword.Bluemix_notm}} Public, na barra de menus, clique em **Suporte** e selecione **Incluir chamado**. Selecione a área de tópico para seu problema e siga os prompts para enviar seu chamado.</li>
