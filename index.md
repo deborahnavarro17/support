@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2017
 
-lastupdated: "2017-11-02"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -12,7 +12,6 @@ lastupdated: "2017-11-02"
 
 # Getting customer support
 {: #getting-customer-support}
-
 
 If you experience problems with {{site.data.keyword.Bluemix}}, you have several support options, such as searching FAQs and documentation or getting help through a forum.
 {:shortdesc}
@@ -31,7 +30,7 @@ You can use the Support Center search field to find answers to your questions fr
 
 Depending on the type of account you have, other options are also available from the Support Center.  
 * If you have a [Premium support](#premium-support) account, you can find call in numbers to get help.
-* If your account was created in the customer portal and is linked between PaaS and IaaS services, and it is a [Premium support](#premium-support) account, you can also start a chat session.
+* If your account was created in the {{site.data.keyword.slportal}} and is linked between PaaS and IaaS services, and it is a [Premium support](#premium-support) account, you can also start a chat session.
 
 The Support Center is the preferred method for obtaining support, but if you cannot log in to {{site.data.keyword.Bluemix_notm}}, you can use the [Get Help](http://www.ibm.biz/bluemixsupport){: new_window} page to submit a ticket.
 
@@ -106,11 +105,11 @@ If you are unable to resolve your technical problem with the troubleshooting and
 
 If the problem is not due to an outage, and if you have a valid {{site.data.keyword.Bluemix_notm}} account, you can open support tickets by using a variety of options.
 
-If your {{site.data.keyword.Bluemix_notm}} account was created with the customer portal and it is a linked account, meaning that it is linked between PaaS and IaaS services, you can open support tickets from customer portal or from the {{site.data.keyword.Bluemix_notm}} console.
+If your {{site.data.keyword.Bluemix_notm}} account was created with the {{site.data.keyword.slportal}} and it is a linked account, meaning that it is linked between PaaS and IaaS services, you can open support tickets from {{site.data.keyword.slportal}} or from the {{site.data.keyword.Bluemix_notm}} console.
 
 You can open a support ticket by using one of the following options:
 
-* From the menu bar, click **Support** > **Add ticket** from the menu bar. In the ticket form, select **Technical** for the ticket type and complete the form to indicate what you need technical support for. If you have Premium Level Support, choose the severity level for your issue. You will receive an email notification in a few minutes for the ticket. Follow the instructions in the email for further communications on the issue.
+* From the menu bar, click **Support** > **Add ticket**. In the ticket form, select **Technical** for the ticket type and complete the form to indicate what you need technical support for. If you have Premium Level Support, choose the severity level for your issue. You will receive an email notification in a few minutes for the ticket. Follow the instructions in the email for further communications on the issue.
 * Use the [IBM {{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://www.ibm.biz/bluemixsupport){: new_window} help page. You can submit tickets for sales, IBM ID and login, billing, and technical support problems. For technical support problems, you can narrow the issue to a specific area or service. If you need help with a specific service, select the corresponding service category. To determine the category that your service belongs to, click **Catalog** from the menu bar and review the categories.  
 
 When you open a support ticket, ensure that you indicate an appropriate severity for your ticket. The severity determines how your ticket is handled. See [Support ticket severity and response time](/docs/support/index.html#support-ticket-severity) for information about the different severities. If your support inquiry requires a more immediate response, consider upgrading to the Standard or Premium support tier so that you can open severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} or email sales@bluemix.net.
