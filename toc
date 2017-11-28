@@ -4,7 +4,7 @@
 {: .toc}
 Getting Customer Support
 
-    {: .navgroup id="help"}
+    {: .navgroup id="learn"}
     index.md
     ViewStatus.md
     {: .navgroup-end}
