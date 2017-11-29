@@ -30,7 +30,7 @@ On the Status page, you can find the following information:
 You can find the Status page by choosing either of the following options:
 
   * Log in to the {{site.data.keyword.Bluemix_notm}} console. From the menu bar, click **Support** and select **Status**. Check the listed resources for the ![some issues](images/some_issues.svg) icon. This icon might indicate an outage.
-  * Access it directly at [IBM {{site.data.keyword.Bluemix_notm}} - Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/status){: new_window}.
+  * Access it directly at [{{site.data.keyword.Bluemix_notm}} - Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/status){: new_window}.
 
 
 ## Best practices for monitoring status
